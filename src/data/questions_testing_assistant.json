@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "testing_assistant_q1",
+    "roleId": "testing_assistant",
+    "questionNumber": 1,
+    "questionText": "What best describes scope of practice?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "perform a test even when not trained or authorised",
+      "C": "the tasks a worker is qualified, trained, assessed and authorised to perform",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Scope Of Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q2",
+    "roleId": "testing_assistant",
+    "questionNumber": 2,
+    "questionText": "Which action best demonstrates good practice for scope of practice?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "prescribe treatment independently",
+      "C": "perform only assigned tasks for which competency and authorisation are current",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Scope Of Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q3",
+    "roleId": "testing_assistant",
+    "questionNumber": 3,
+    "questionText": "A worker encounters an issue involving scope of practice. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "pause and consult the supervisor when a requested task is outside your authorisation",
+      "C": "put sharps in ordinary rubbish",
+      "D": "skip hand hygiene because gloves were worn"
+    },
+    "correctAnswer": "B",
+    "topic": "Scope Of Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q4",
+    "roleId": "testing_assistant",
+    "questionNumber": 4,
+    "questionText": "Why is scope of practice important in this role?",
+    "options": {
+      "A": "it protects clients and staff and maintains safe service delivery",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "perform a test even when not trained or authorised",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Scope Of Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q5",
+    "roleId": "testing_assistant",
+    "questionNumber": 5,
+    "questionText": "Which statement about scope of practice is correct?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "tell an unauthorised person the client's result",
+      "C": "being present in a laboratory does not automatically authorise every procedure",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "C",
+    "topic": "Scope Of Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q6",
+    "roleId": "testing_assistant",
+    "questionNumber": 6,
+    "questionText": "What best describes informed consent?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "force a client to accept testing",
+      "D": "a client's voluntary agreement after receiving relevant information"
+    },
+    "correctAnswer": "D",
+    "topic": "Informed Consent",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q7",
+    "roleId": "testing_assistant",
+    "questionNumber": 7,
+    "questionText": "Which action best demonstrates good practice for informed consent?",
+    "options": {
+      "A": "explain the service in an understandable way and obtain consent according to policy",
+      "B": "prescribe treatment independently",
+      "C": "call an invalid result negative",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "A",
+    "topic": "Informed Consent",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q8",
+    "roleId": "testing_assistant",
+    "questionNumber": 8,
+    "questionText": "A worker encounters an issue involving informed consent. What is the most appropriate first response?",
+    "options": {
+      "A": "pause the activity if consent has not been obtained or is unclear",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "A",
+    "topic": "Informed Consent",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q9",
+    "roleId": "testing_assistant",
+    "questionNumber": 9,
+    "questionText": "Why is informed consent important in this role?",
+    "options": {
+      "A": "it respects client autonomy and rights",
+      "B": "perform a test even when not trained or authorised",
+      "C": "force a client to accept testing",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Informed Consent",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q10",
+    "roleId": "testing_assistant",
+    "questionNumber": 10,
+    "questionText": "Which statement about informed consent is correct?",
+    "options": {
+      "A": "a client must not be forced or misled into testing",
+      "B": "tell an unauthorised person the client's result",
+      "C": "call an invalid result negative",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "A",
+    "topic": "Informed Consent",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q11",
+    "roleId": "testing_assistant",
+    "questionNumber": 11,
+    "questionText": "What best describes patient identification?",
+    "options": {
+      "A": "confirming that the correct client is linked to the requested test or specimen",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "force a client to accept testing",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "A",
+    "topic": "Patient Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q12",
+    "roleId": "testing_assistant",
+    "questionNumber": 12,
+    "questionText": "Which action best demonstrates good practice for patient identification?",
+    "options": {
+      "A": "use the approved identifiers and match them to the request and specimen",
+      "B": "tell an unauthorised person the client's result",
+      "C": "call an invalid result negative",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "A",
+    "topic": "Patient Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q13",
+    "roleId": "testing_assistant",
+    "questionNumber": 13,
+    "questionText": "A worker encounters an issue involving patient identification. What is the most appropriate first response?",
+    "options": {
+      "A": "put sharps in ordinary rubbish",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "stop and clarify any discrepancy before proceeding",
+      "D": "skip hand hygiene because gloves were worn"
+    },
+    "correctAnswer": "C",
+    "topic": "Patient Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q14",
+    "roleId": "testing_assistant",
+    "questionNumber": 14,
+    "questionText": "Why is patient identification important in this role?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "it prevents results being assigned to the wrong person",
+      "C": "perform a test even when not trained or authorised",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "B",
+    "topic": "Patient Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q15",
+    "roleId": "testing_assistant",
+    "questionNumber": 15,
+    "questionText": "Which statement about patient identification is correct?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "a queue position or verbal guess is not a substitute for approved identification",
+      "C": "tell an unauthorised person the client's result",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "B",
+    "topic": "Patient Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q16",
+    "roleId": "testing_assistant",
+    "questionNumber": 16,
+    "questionText": "What best describes specimen labelling?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "force a client to accept testing",
+      "D": "accurately identifying the specimen at the point required by facility procedure"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q17",
+    "roleId": "testing_assistant",
+    "questionNumber": 17,
+    "questionText": "Which action best demonstrates good practice for specimen labelling?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "call an invalid result negative",
+      "C": "tell an unauthorised person the client's result",
+      "D": "label according to the approved policy and verify the label against the request"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q18",
+    "roleId": "testing_assistant",
+    "questionNumber": 18,
+    "questionText": "A worker encounters an issue involving specimen labelling. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "put sharps in ordinary rubbish",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "hold and escalate a specimen with missing or conflicting identification"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q19",
+    "roleId": "testing_assistant",
+    "questionNumber": 19,
+    "questionText": "Why is specimen labelling important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "it maintains traceability and prevents mix-ups",
+      "C": "force a client to accept testing",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q20",
+    "roleId": "testing_assistant",
+    "questionNumber": 20,
+    "questionText": "Which statement about specimen labelling is correct?",
+    "options": {
+      "A": "never guess a specimen's identity",
+      "B": "prescribe treatment independently",
+      "C": "call an invalid result negative",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q21",
+    "roleId": "testing_assistant",
+    "questionNumber": 21,
+    "questionText": "What best describes specimen integrity?",
+    "options": {
+      "A": "the condition of a specimen being suitable for the requested test",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "perform a test even when not trained or authorised",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Integrity",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q22",
+    "roleId": "testing_assistant",
+    "questionNumber": 22,
+    "questionText": "Which action best demonstrates good practice for specimen integrity?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "tell an unauthorised person the client's result",
+      "C": "check acceptability, container, volume and any required handling conditions",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Integrity",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q23",
+    "roleId": "testing_assistant",
+    "questionNumber": 23,
+    "questionText": "A worker encounters an issue involving specimen integrity. What is the most appropriate first response?",
+    "options": {
+      "A": "put sharps in ordinary rubbish",
+      "B": "refer questionable specimens to the supervising laboratory staff for disposition",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "skip hand hygiene because gloves were worn"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Integrity",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q24",
+    "roleId": "testing_assistant",
+    "questionNumber": 24,
+    "questionText": "Why is specimen integrity important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "poor specimen integrity can cause unreliable or unusable results",
+      "C": "perform a test even when not trained or authorised",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Integrity",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q25",
+    "roleId": "testing_assistant",
+    "questionNumber": 25,
+    "questionText": "Which statement about specimen integrity is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "prescribe treatment independently",
+      "C": "do not process a compromised specimen without authorised review",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Integrity",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q26",
+    "roleId": "testing_assistant",
+    "questionNumber": 26,
+    "questionText": "What best describes hand hygiene?",
+    "options": {
+      "A": "cleaning hands at the recommended moments using the approved method",
+      "B": "force a client to accept testing",
+      "C": "perform a test even when not trained or authorised",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Hand Hygiene",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q27",
+    "roleId": "testing_assistant",
+    "questionNumber": 27,
+    "questionText": "Which action best demonstrates good practice for hand hygiene?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "perform hand hygiene before and after relevant client or specimen contact and after glove removal",
+      "C": "tell an unauthorised person the client's result",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "B",
+    "topic": "Hand Hygiene",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q28",
+    "roleId": "testing_assistant",
+    "questionNumber": 28,
+    "questionText": "A worker encounters an issue involving hand hygiene. What is the most appropriate first response?",
+    "options": {
+      "A": "perform hand hygiene at the required point before continuing work",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "A",
+    "topic": "Hand Hygiene",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q29",
+    "roleId": "testing_assistant",
+    "questionNumber": 29,
+    "questionText": "Why is hand hygiene important in this role?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "it reduces transmission and cross-contamination",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Hand Hygiene",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q30",
+    "roleId": "testing_assistant",
+    "questionNumber": 30,
+    "questionText": "Which statement about hand hygiene is correct?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "call an invalid result negative",
+      "C": "gloves do not replace hand hygiene",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "C",
+    "topic": "Hand Hygiene",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q31",
+    "roleId": "testing_assistant",
+    "questionNumber": 31,
+    "questionText": "What best describes personal protective equipment?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "protective equipment selected for the task and exposure risk",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q32",
+    "roleId": "testing_assistant",
+    "questionNumber": 32,
+    "questionText": "Which action best demonstrates good practice for personal protective equipment?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "wear and remove the required PPE according to facility guidance",
+      "C": "prescribe treatment independently",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "B",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q33",
+    "roleId": "testing_assistant",
+    "questionNumber": 33,
+    "questionText": "A worker encounters an issue involving personal protective equipment. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "put sharps in ordinary rubbish",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "check the task-specific PPE requirements before handling specimens"
+    },
+    "correctAnswer": "D",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q34",
+    "roleId": "testing_assistant",
+    "questionNumber": 34,
+    "questionText": "Why is personal protective equipment important in this role?",
+    "options": {
+      "A": "it reduces exposure when combined with safe work practices",
+      "B": "force a client to accept testing",
+      "C": "perform a test even when not trained or authorised",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q35",
+    "roleId": "testing_assistant",
+    "questionNumber": 35,
+    "questionText": "Which statement about personal protective equipment is correct?",
+    "options": {
+      "A": "PPE should not be shared or reused contrary to policy",
+      "B": "tell an unauthorised person the client's result",
+      "C": "call an invalid result negative",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "A",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q36",
+    "roleId": "testing_assistant",
+    "questionNumber": 36,
+    "questionText": "What best describes sharps safety?",
+    "options": {
+      "A": "preventing injuries from needles, lancets and other sharp objects",
+      "B": "perform a test even when not trained or authorised",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q37",
+    "roleId": "testing_assistant",
+    "questionNumber": 37,
+    "questionText": "Which action best demonstrates good practice for sharps safety?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "prescribe treatment independently",
+      "D": "dispose of used sharps immediately in an approved puncture-resistant container"
+    },
+    "correctAnswer": "D",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q38",
+    "roleId": "testing_assistant",
+    "questionNumber": 38,
+    "questionText": "A worker encounters an issue involving sharps safety. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "put sharps in ordinary rubbish",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "secure the sharp and follow the facility exposure procedure if an injury occurs"
+    },
+    "correctAnswer": "D",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q39",
+    "roleId": "testing_assistant",
+    "questionNumber": 39,
+    "questionText": "Why is sharps safety important in this role?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "perform a test even when not trained or authorised",
+      "D": "it prevents needlestick injuries and blood-borne exposure"
+    },
+    "correctAnswer": "D",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q40",
+    "roleId": "testing_assistant",
+    "questionNumber": 40,
+    "questionText": "Which statement about sharps safety is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "prescribe treatment independently",
+      "D": "never recap used sharps or put them in ordinary waste"
+    },
+    "correctAnswer": "D",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q41",
+    "roleId": "testing_assistant",
+    "questionNumber": 41,
+    "questionText": "What best describes healthcare waste segregation?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "perform a test even when not trained or authorised",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "separating waste into the correct categories at the point of generation"
+    },
+    "correctAnswer": "D",
+    "topic": "Healthcare Waste Segregation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q42",
+    "roleId": "testing_assistant",
+    "questionNumber": 42,
+    "questionText": "Which action best demonstrates good practice for healthcare waste segregation?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "call an invalid result negative",
+      "C": "prescribe treatment independently",
+      "D": "use the designated labelled waste containers under the facility policy"
+    },
+    "correctAnswer": "D",
+    "topic": "Healthcare Waste Segregation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q43",
+    "roleId": "testing_assistant",
+    "questionNumber": 43,
+    "questionText": "A worker encounters an issue involving healthcare waste segregation. What is the most appropriate first response?",
+    "options": {
+      "A": "put sharps in ordinary rubbish",
+      "B": "skip hand hygiene because gloves were worn",
+      "C": "identify the waste category and use the approved container",
+      "D": "process an unlabelled specimen by guessing"
+    },
+    "correctAnswer": "C",
+    "topic": "Healthcare Waste Segregation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q44",
+    "roleId": "testing_assistant",
+    "questionNumber": 44,
+    "questionText": "Why is healthcare waste segregation important in this role?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "it protects workers, clients and the environment",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Healthcare Waste Segregation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q45",
+    "roleId": "testing_assistant",
+    "questionNumber": 45,
+    "questionText": "Which statement about healthcare waste segregation is correct?",
+    "options": {
+      "A": "do not mix sharps with general waste",
+      "B": "tell an unauthorised person the client's result",
+      "C": "call an invalid result negative",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "A",
+    "topic": "Healthcare Waste Segregation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q46",
+    "roleId": "testing_assistant",
+    "questionNumber": 46,
+    "questionText": "What best describes test-kit storage?",
+    "options": {
+      "A": "keeping test kits within manufacturer-specified storage conditions",
+      "B": "perform a test even when not trained or authorised",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Test-Kit Storage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q47",
+    "roleId": "testing_assistant",
+    "questionNumber": 47,
+    "questionText": "Which action best demonstrates good practice for test-kit storage?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "check and maintain the required temperature and storage conditions",
+      "C": "call an invalid result negative",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "B",
+    "topic": "Test-Kit Storage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q48",
+    "roleId": "testing_assistant",
+    "questionNumber": 48,
+    "questionText": "A worker encounters an issue involving test-kit storage. What is the most appropriate first response?",
+    "options": {
+      "A": "put sharps in ordinary rubbish",
+      "B": "skip hand hygiene because gloves were worn",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "quarantine kits exposed to conditions outside specifications and ask the supervisor"
+    },
+    "correctAnswer": "D",
+    "topic": "Test-Kit Storage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q49",
+    "roleId": "testing_assistant",
+    "questionNumber": 49,
+    "questionText": "Why is test-kit storage important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "perform a test even when not trained or authorised",
+      "C": "force a client to accept testing",
+      "D": "it preserves test-kit performance"
+    },
+    "correctAnswer": "D",
+    "topic": "Test-Kit Storage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q50",
+    "roleId": "testing_assistant",
+    "questionNumber": 50,
+    "questionText": "Which statement about test-kit storage is correct?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "prescribe treatment independently",
+      "C": "do not assume a kit is usable after improper storage",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "C",
+    "topic": "Test-Kit Storage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q51",
+    "roleId": "testing_assistant",
+    "questionNumber": 51,
+    "questionText": "What best describes expiry-date checking?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "force a client to accept testing",
+      "C": "confirming that a test kit or reagent is within its approved use period",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "C",
+    "topic": "Expiry-Date Checking",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q52",
+    "roleId": "testing_assistant",
+    "questionNumber": 52,
+    "questionText": "Which action best demonstrates good practice for expiry-date checking?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "call an invalid result negative",
+      "C": "check the expiry before use and follow stock rotation procedures",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "C",
+    "topic": "Expiry-Date Checking",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q53",
+    "roleId": "testing_assistant",
+    "questionNumber": 53,
+    "questionText": "A worker encounters an issue involving expiry-date checking. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "set aside expired kits and notify the responsible person",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "B",
+    "topic": "Expiry-Date Checking",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q54",
+    "roleId": "testing_assistant",
+    "questionNumber": 54,
+    "questionText": "Why is expiry-date checking important in this role?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "expired materials may give unreliable results",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "B",
+    "topic": "Expiry-Date Checking",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q55",
+    "roleId": "testing_assistant",
+    "questionNumber": 55,
+    "questionText": "Which statement about expiry-date checking is correct?",
+    "options": {
+      "A": "do not use an expired kit because supplies are limited",
+      "B": "call an invalid result negative",
+      "C": "tell an unauthorised person the client's result",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "A",
+    "topic": "Expiry-Date Checking",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q56",
+    "roleId": "testing_assistant",
+    "questionNumber": 56,
+    "questionText": "What best describes internal test quality control?",
+    "options": {
+      "A": "checks required by the test system to show that the process is functioning acceptably",
+      "B": "perform a test even when not trained or authorised",
+      "C": "force a client to accept testing",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Internal Test Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q57",
+    "roleId": "testing_assistant",
+    "questionNumber": 57,
+    "questionText": "Which action best demonstrates good practice for internal test quality control?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "perform and interpret required controls according to the approved instructions",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Test Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q58",
+    "roleId": "testing_assistant",
+    "questionNumber": 58,
+    "questionText": "A worker encounters an issue involving internal test quality control. What is the most appropriate first response?",
+    "options": {
+      "A": "put sharps in ordinary rubbish",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "do not release results until required controls meet acceptance criteria",
+      "D": "skip hand hygiene because gloves were worn"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Test Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q59",
+    "roleId": "testing_assistant",
+    "questionNumber": 59,
+    "questionText": "Why is internal test quality control important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "force a client to accept testing",
+      "C": "it helps detect test-system problems",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Test Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q60",
+    "roleId": "testing_assistant",
+    "questionNumber": 60,
+    "questionText": "Which statement about internal test quality control is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "prescribe treatment independently",
+      "C": "a control failure must not be ignored or hidden",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Test Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q61",
+    "roleId": "testing_assistant",
+    "questionNumber": 61,
+    "questionText": "What best describes invalid test result?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "perform a test even when not trained or authorised",
+      "C": "a result that does not meet the test's validity criteria",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Invalid Test Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q62",
+    "roleId": "testing_assistant",
+    "questionNumber": 62,
+    "questionText": "Which action best demonstrates good practice for invalid test result?",
+    "options": {
+      "A": "follow the kit instructions and approved retesting or escalation procedure",
+      "B": "tell an unauthorised person the client's result",
+      "C": "prescribe treatment independently",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "A",
+    "topic": "Invalid Test Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q63",
+    "roleId": "testing_assistant",
+    "questionNumber": 63,
+    "questionText": "A worker encounters an issue involving invalid test result. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "put sharps in ordinary rubbish",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "withhold interpretation and seek supervisory guidance according to the SOP"
+    },
+    "correctAnswer": "D",
+    "topic": "Invalid Test Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q64",
+    "roleId": "testing_assistant",
+    "questionNumber": 64,
+    "questionText": "Why is invalid test result important in this role?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "it prevents an unreliable result from being treated as valid",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "B",
+    "topic": "Invalid Test Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q65",
+    "roleId": "testing_assistant",
+    "questionNumber": 65,
+    "questionText": "Which statement about invalid test result is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "an invalid result is not the same as a negative result",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "C",
+    "topic": "Invalid Test Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q66",
+    "roleId": "testing_assistant",
+    "questionNumber": 66,
+    "questionText": "What best describes reactive HIV screening result?",
+    "options": {
+      "A": "a screening outcome that requires the next step in the approved national testing algorithm",
+      "B": "force a client to accept testing",
+      "C": "perform a test even when not trained or authorised",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q67",
+    "roleId": "testing_assistant",
+    "questionNumber": 67,
+    "questionText": "Which action best demonstrates good practice for reactive HIV screening result?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "protect confidentiality and link the client to the authorised testing pathway",
+      "C": "tell an unauthorised person the client's result",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "B",
+    "topic": "Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q68",
+    "roleId": "testing_assistant",
+    "questionNumber": 68,
+    "questionText": "A worker encounters an issue involving reactive HIV screening result. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "put sharps in ordinary rubbish",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "follow the current approved algorithm and ensure appropriate follow-up by authorised personnel"
+    },
+    "correctAnswer": "D",
+    "topic": "Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q69",
+    "roleId": "testing_assistant",
+    "questionNumber": 69,
+    "questionText": "Why is reactive HIV screening result important in this role?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "it ensures accurate diagnosis and timely linkage without premature labelling",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q70",
+    "roleId": "testing_assistant",
+    "questionNumber": 70,
+    "questionText": "Which statement about reactive HIV screening result is correct?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "prescribe treatment independently",
+      "C": "a single screening result must not be treated as a confirmed diagnosis unless the algorithm says so",
+      "D": "call an invalid result negative"
+    },
+    "correctAnswer": "C",
+    "topic": "Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q71",
+    "roleId": "testing_assistant",
+    "questionNumber": 71,
+    "questionText": "What best describes non-reactive HIV screening result?",
+    "options": {
+      "A": "a screening outcome that must be interpreted in line with the test algorithm and exposure history",
+      "B": "perform a test even when not trained or authorised",
+      "C": "force a client to accept testing",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "A",
+    "topic": "Non-Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q72",
+    "roleId": "testing_assistant",
+    "questionNumber": 72,
+    "questionText": "Which action best demonstrates good practice for non-reactive HIV screening result?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "call an invalid result negative",
+      "C": "communicate through the authorised provider and explain any required follow-up under policy",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Non-Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q73",
+    "roleId": "testing_assistant",
+    "questionNumber": 73,
+    "questionText": "A worker encounters an issue involving non-reactive HIV screening result. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "refer interpretation and counselling to the trained authorised person",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "C",
+    "topic": "Non-Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q74",
+    "roleId": "testing_assistant",
+    "questionNumber": 74,
+    "questionText": "Why is non-reactive HIV screening result important in this role?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "force a client to accept testing",
+      "C": "it supports correct interpretation and prevention planning",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "C",
+    "topic": "Non-Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q75",
+    "roleId": "testing_assistant",
+    "questionNumber": 75,
+    "questionText": "Which statement about non-reactive HIV screening result is correct?",
+    "options": {
+      "A": "a non-reactive test does not remove the need to consider the window period or clinical guidance",
+      "B": "call an invalid result negative",
+      "C": "prescribe treatment independently",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "A",
+    "topic": "Non-Reactive Hiv Screening Result",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q76",
+    "roleId": "testing_assistant",
+    "questionNumber": 76,
+    "questionText": "What best describes malaria rapid diagnostic test?",
+    "options": {
+      "A": "perform a test even when not trained or authorised",
+      "B": "a point-of-care test used to detect malaria parasite antigens according to its instructions",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Malaria Rapid Diagnostic Test",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q77",
+    "roleId": "testing_assistant",
+    "questionNumber": 77,
+    "questionText": "Which action best demonstrates good practice for malaria rapid diagnostic test?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "prescribe treatment independently",
+      "D": "perform only when trained and authorised, following the kit instructions and quality checks"
+    },
+    "correctAnswer": "D",
+    "topic": "Malaria Rapid Diagnostic Test",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q78",
+    "roleId": "testing_assistant",
+    "questionNumber": 78,
+    "questionText": "A worker encounters an issue involving malaria rapid diagnostic test. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "put sharps in ordinary rubbish",
+      "C": "check training, authorisation, kit storage, expiry and the approved procedure",
+      "D": "process an unlabelled specimen by guessing"
+    },
+    "correctAnswer": "C",
+    "topic": "Malaria Rapid Diagnostic Test",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q79",
+    "roleId": "testing_assistant",
+    "questionNumber": 79,
+    "questionText": "Why is malaria rapid diagnostic test important in this role?",
+    "options": {
+      "A": "it supports appropriate malaria diagnosis and treatment decisions",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "force a client to accept testing",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria Rapid Diagnostic Test",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q80",
+    "roleId": "testing_assistant",
+    "questionNumber": 80,
+    "questionText": "Which statement about malaria rapid diagnostic test is correct?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "do not perform or interpret a test outside your competency or approved protocol",
+      "C": "call an invalid result negative",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "B",
+    "topic": "Malaria Rapid Diagnostic Test",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q81",
+    "roleId": "testing_assistant",
+    "questionNumber": 81,
+    "questionText": "What best describes positive result linkage?",
+    "options": {
+      "A": "connecting a client with an appropriate authorised provider after a result requiring care",
+      "B": "force a client to accept testing",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "A",
+    "topic": "Positive Result Linkage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q82",
+    "roleId": "testing_assistant",
+    "questionNumber": 82,
+    "questionText": "Which action best demonstrates good practice for positive result linkage?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "tell an unauthorised person the client's result",
+      "C": "follow the approved referral pathway and document linkage",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "C",
+    "topic": "Positive Result Linkage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q83",
+    "roleId": "testing_assistant",
+    "questionNumber": 83,
+    "questionText": "A worker encounters an issue involving positive result linkage. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "put sharps in ordinary rubbish",
+      "C": "skip hand hygiene because gloves were worn",
+      "D": "inform the authorised supervisor or provider and arrange the approved next step"
+    },
+    "correctAnswer": "D",
+    "topic": "Positive Result Linkage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q84",
+    "roleId": "testing_assistant",
+    "questionNumber": 84,
+    "questionText": "Why is positive result linkage important in this role?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "it helps clients receive timely appropriate care",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "C",
+    "topic": "Positive Result Linkage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q85",
+    "roleId": "testing_assistant",
+    "questionNumber": 85,
+    "questionText": "Which statement about positive result linkage is correct?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "call an invalid result negative",
+      "C": "do not independently prescribe or start treatment outside your authority",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Positive Result Linkage",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q86",
+    "roleId": "testing_assistant",
+    "questionNumber": 86,
+    "questionText": "What best describes specimen transport?",
+    "options": {
+      "A": "moving a specimen safely using required containment, temperature and documentation",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "force a client to accept testing",
+      "D": "perform a test even when not trained or authorised"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Transport",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q87",
+    "roleId": "testing_assistant",
+    "questionNumber": 87,
+    "questionText": "Which action best demonstrates good practice for specimen transport?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "use the approved packaging and transport pathway and document dispatch",
+      "C": "prescribe treatment independently",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Transport",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q88",
+    "roleId": "testing_assistant",
+    "questionNumber": 88,
+    "questionText": "A worker encounters an issue involving specimen transport. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "check the specimen's transport requirements before handover",
+      "C": "process an unlabelled specimen by guessing",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Transport",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q89",
+    "roleId": "testing_assistant",
+    "questionNumber": 89,
+    "questionText": "Why is specimen transport important in this role?",
+    "options": {
+      "A": "it maintains specimen integrity and staff safety",
+      "B": "guess a client's identity from their position in the queue",
+      "C": "perform a test even when not trained or authorised",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Transport",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q90",
+    "roleId": "testing_assistant",
+    "questionNumber": 90,
+    "questionText": "Which statement about specimen transport is correct?",
+    "options": {
+      "A": "prescribe treatment independently",
+      "B": "call an invalid result negative",
+      "C": "tell an unauthorised person the client's result",
+      "D": "do not carry specimens in unapproved open containers"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Transport",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q91",
+    "roleId": "testing_assistant",
+    "questionNumber": 91,
+    "questionText": "What best describes test documentation?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "perform a test even when not trained or authorised",
+      "C": "guess a client's identity from their position in the queue",
+      "D": "recording required client, specimen, test and quality information accurately"
+    },
+    "correctAnswer": "D",
+    "topic": "Test Documentation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q92",
+    "roleId": "testing_assistant",
+    "questionNumber": 92,
+    "questionText": "Which action best demonstrates good practice for test documentation?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "complete the approved register or system immediately and legibly",
+      "C": "call an invalid result negative",
+      "D": "prescribe treatment independently"
+    },
+    "correctAnswer": "B",
+    "topic": "Test Documentation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q93",
+    "roleId": "testing_assistant",
+    "questionNumber": 93,
+    "questionText": "A worker encounters an issue involving test documentation. What is the most appropriate first response?",
+    "options": {
+      "A": "skip hand hygiene because gloves were worn",
+      "B": "process an unlabelled specimen by guessing",
+      "C": "put sharps in ordinary rubbish",
+      "D": "verify the required fields and record the activity using the approved tool"
+    },
+    "correctAnswer": "D",
+    "topic": "Test Documentation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q94",
+    "roleId": "testing_assistant",
+    "questionNumber": 94,
+    "questionText": "Why is test documentation important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "perform a test even when not trained or authorised",
+      "C": "force a client to accept testing",
+      "D": "it supports traceability, monitoring and continuity"
+    },
+    "correctAnswer": "D",
+    "topic": "Test Documentation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q95",
+    "roleId": "testing_assistant",
+    "questionNumber": 95,
+    "questionText": "Which statement about test documentation is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "prescribe treatment independently",
+      "C": "tell an unauthorised person the client's result",
+      "D": "never fabricate a result or backdate an entry"
+    },
+    "correctAnswer": "D",
+    "topic": "Test Documentation",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q96",
+    "roleId": "testing_assistant",
+    "questionNumber": 96,
+    "questionText": "What best describes exposure incident reporting?",
+    "options": {
+      "A": "force a client to accept testing",
+      "B": "promptly reporting a possible occupational exposure and seeking care through the facility protocol",
+      "C": "perform a test even when not trained or authorised",
+      "D": "guess a client's identity from their position in the queue"
+    },
+    "correctAnswer": "B",
+    "topic": "Exposure Incident Reporting",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q97",
+    "roleId": "testing_assistant",
+    "questionNumber": 97,
+    "questionText": "Which action best demonstrates good practice for exposure incident reporting?",
+    "options": {
+      "A": "tell an unauthorised person the client's result",
+      "B": "call an invalid result negative",
+      "C": "prescribe treatment independently",
+      "D": "stop safely, report immediately and follow the post-exposure procedure"
+    },
+    "correctAnswer": "D",
+    "topic": "Exposure Incident Reporting",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q98",
+    "roleId": "testing_assistant",
+    "questionNumber": 98,
+    "questionText": "A worker encounters an issue involving exposure incident reporting. What is the most appropriate first response?",
+    "options": {
+      "A": "process an unlabelled specimen by guessing",
+      "B": "skip hand hygiene because gloves were worn",
+      "C": "notify the designated supervisor without delay",
+      "D": "put sharps in ordinary rubbish"
+    },
+    "correctAnswer": "C",
+    "topic": "Exposure Incident Reporting",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q99",
+    "roleId": "testing_assistant",
+    "questionNumber": 99,
+    "questionText": "Why is exposure incident reporting important in this role?",
+    "options": {
+      "A": "guess a client's identity from their position in the queue",
+      "B": "it enables timely assessment and reduces risk to the worker",
+      "C": "perform a test even when not trained or authorised",
+      "D": "force a client to accept testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Exposure Incident Reporting",
+    "source": "500_bank"
+  },
+  {
+    "id": "testing_assistant_q100",
+    "roleId": "testing_assistant",
+    "questionNumber": 100,
+    "questionText": "Which statement about exposure incident reporting is correct?",
+    "options": {
+      "A": "call an invalid result negative",
+      "B": "prescribe treatment independently",
+      "C": "do not hide a needlestick or wait for symptoms before reporting",
+      "D": "tell an unauthorised person the client's result"
+    },
+    "correctAnswer": "C",
+    "topic": "Exposure Incident Reporting",
+    "source": "500_bank"
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "cn_supp_q1",
+    "roleId": "client_navigator",
+    "questionNumber": 1,
+    "questionText": "What does CCCRN stand for?",
+    "options": {
+      "A": "Centre for Community Care and Research Network",
+      "B": "Center for Clinical Care and Clinical Research",
+      "C": "Centre for Clinical Records and National Research",
+      "D": "Center for Community Clinical Regulation"
+    },
+    "correctAnswer": "B",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q2",
+    "roleId": "client_navigator",
+    "questionNumber": 2,
+    "questionText": "What is the primary mission of CCCRN?",
+    "options": {
+      "A": "To promote best practices in healthcare delivery and research using locally adapted health systems strengthening approaches.",
+      "B": "To provide commercial healthcare insurance.",
+      "C": "To regulate all private hospitals.",
+      "D": "To manufacture pharmaceutical products."
+    },
+    "correctAnswer": "A",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q3",
+    "roleId": "client_navigator",
+    "questionNumber": 3,
+    "questionText": "What does BRIDGE-N stand for?",
+    "options": {
+      "A": "Building Resilient Integrated Delivery of HIV, TB, Malaria and MNCH Services for Government-led Effective Health System in Nigeria.",
+      "B": "Building Rural Integrated Development and General Education in Nigeria.",
+      "C": "Basic Research and Integrated Development for Government Healthcare.",
+      "D": "Building Resilient Institutions for Disease Management."
+    },
+    "correctAnswer": "A",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q4",
+    "roleId": "client_navigator",
+    "questionNumber": 4,
+    "questionText": "Which four health areas are covered by BRIDGE-N?",
+    "options": {
+      "A": "HIV, TB, malaria and MNCH.",
+      "B": "HIV, cancer, diabetes and surgery.",
+      "C": "Malaria, hypertension, kidney disease and cancer.",
+      "D": "TB, immunization, surgery and mental health only."
+    },
+    "correctAnswer": "A",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q5",
+    "roleId": "client_navigator",
+    "questionNumber": 5,
+    "questionText": "What is the primary purpose of a Client Navigator?",
+    "options": {
+      "A": "To diagnose diseases.",
+      "B": "To help clients access health services, attend appointments, maintain continuity of care and complete referrals.",
+      "C": "To prescribe medications.",
+      "D": "To conduct laboratory investigations."
+    },
+    "correctAnswer": "B",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q6",
+    "roleId": "client_navigator",
+    "questionNumber": 6,
+    "questionText": "Which of the following best describes client-centred care?",
+    "options": {
+      "A": "Providing services without considering clients' needs.",
+      "B": "Respecting clients' needs, preferences, dignity and rights when providing support.",
+      "C": "Making all decisions without consulting clients.",
+      "D": "Giving priority only to clients who can pay."
+    },
+    "correctAnswer": "B",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q7",
+    "roleId": "client_navigator",
+    "questionNumber": 7,
+    "questionText": "Why is integration of health services important?",
+    "options": {
+      "A": "It makes it easier for clients to access related health services and improves continuity of care.",
+      "B": "It eliminates the need for medical professionals.",
+      "C": "It prevents every disease.",
+      "D": "It removes the need for patient records."
+    },
+    "correctAnswer": "A",
+    "topic": "CCCRN and BRIDGE-N",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q8",
+    "roleId": "client_navigator",
+    "questionNumber": 8,
+    "questionText": "What does client navigation mean?",
+    "options": {
+      "A": "Directing clients to appropriate health services and helping them complete the care process.",
+      "B": "Providing transportation to every patient.",
+      "C": "Prescribing drugs to patients.",
+      "D": "Diagnosing patients without medical training."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q9",
+    "roleId": "client_navigator",
+    "questionNumber": 9,
+    "questionText": "What is linkage to care?",
+    "options": {
+      "A": "Connecting a client who needs a health service to the appropriate provider or facility.",
+      "B": "Discharging all patients.",
+      "C": "Transferring patients without documentation.",
+      "D": "Registering patients without providing further support."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q10",
+    "roleId": "client_navigator",
+    "questionNumber": 10,
+    "questionText": "What is continuity of care?",
+    "options": {
+      "A": "Ensuring clients receive consistent and appropriate health services over time.",
+      "B": "Providing treatment only once.",
+      "C": "Stopping treatment when a client misses an appointment.",
+      "D": "Referring all clients to different hospitals."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q11",
+    "roleId": "client_navigator",
+    "questionNumber": 11,
+    "questionText": "What is the purpose of appointment tracking?",
+    "options": {
+      "A": "To monitor scheduled visits and identify clients who miss appointments.",
+      "B": "To increase hospital waiting time.",
+      "C": "To identify patients who should be discharged.",
+      "D": "To replace clinical consultations."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q12",
+    "roleId": "client_navigator",
+    "questionNumber": 12,
+    "questionText": "What is a missed appointment?",
+    "options": {
+      "A": "A client attending a clinic early.",
+      "B": "A client failing to attend a scheduled health appointment.",
+      "C": "A client completing treatment.",
+      "D": "A client receiving a referral."
+    },
+    "correctAnswer": "B",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q13",
+    "roleId": "client_navigator",
+    "questionNumber": 13,
+    "questionText": "What does treatment interruption mean?",
+    "options": {
+      "A": "A client temporarily or permanently stops prescribed treatment without an appropriate clinical decision.",
+      "B": "A client attends all scheduled appointments.",
+      "C": "A client completes treatment successfully.",
+      "D": "A health worker updates a register."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q14",
+    "roleId": "client_navigator",
+    "questionNumber": 14,
+    "questionText": "What should a Client Navigator do when a client misses an appointment?",
+    "options": {
+      "A": "Publicly announce the client's name.",
+      "B": "Follow approved follow-up procedures, use an authorised and confidential communication method, establish the reason for the missed appointment and support return to care.",
+      "C": "Immediately remove the client from the programme.",
+      "D": "Disclose the client's medical condition to neighbours."
+    },
+    "correctAnswer": "B",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q15",
+    "roleId": "client_navigator",
+    "questionNumber": 15,
+    "questionText": "What is a follow-up in client navigation?",
+    "options": {
+      "A": "Contacting or otherwise checking on a client after an appointment, referral or service to determine whether further support is needed.",
+      "B": "Discharging a client without assessment.",
+      "C": "Giving medication without authorisation.",
+      "D": "Collecting money from patients."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q16",
+    "roleId": "client_navigator",
+    "questionNumber": 16,
+    "questionText": "What is a treatment adherence support activity?",
+    "options": {
+      "A": "Encouraging clients to follow their prescribed treatment plans and helping address barriers to adherence.",
+      "B": "Changing a client's prescribed medication.",
+      "C": "Forcing a client to take medication.",
+      "D": "Discouraging clinic attendance."
+    },
+    "correctAnswer": "A",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q17",
+    "roleId": "client_navigator",
+    "questionNumber": 17,
+    "questionText": "Which of the following is an important quality of an effective Client Navigator?",
+    "options": {
+      "A": "Poor communication.",
+      "B": "Confidentiality, empathy, patience and good communication.",
+      "C": "Discrimination.",
+      "D": "Lack of recordkeeping."
+    },
+    "correctAnswer": "B",
+    "topic": "Client Navigation & Linkage",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q18",
+    "roleId": "client_navigator",
+    "questionNumber": 18,
+    "questionText": "What is a referral in healthcare?",
+    "options": {
+      "A": "Sending or directing a client to another appropriate health professional, service or facility for care.",
+      "B": "Discharging a patient without treatment.",
+      "C": "Changing a patient's medical record.",
+      "D": "Transferring a patient without informing anyone."
+    },
+    "correctAnswer": "A",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q19",
+    "roleId": "client_navigator",
+    "questionNumber": 19,
+    "questionText": "What is a closed-loop referral?",
+    "options": {
+      "A": "Referring a client and assuming that the process is complete.",
+      "B": "Referring a client, confirming that the intended service was accessed, and documenting feedback or the outcome.",
+      "C": "Referring a client without a referral record.",
+      "D": "Sending a client to multiple facilities without follow-up."
+    },
+    "correctAnswer": "B",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q20",
+    "roleId": "client_navigator",
+    "questionNumber": 20,
+    "questionText": "Which of the following is the correct referral process?",
+    "options": {
+      "A": "Identify need → refer client → confirm service received → document outcome.",
+      "B": "Refer client → forget about the client.",
+      "C": "Identify need → discharge client.",
+      "D": "Refer client → delete the record."
+    },
+    "correctAnswer": "A",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q21",
+    "roleId": "client_navigator",
+    "questionNumber": 21,
+    "questionText": "A client is referred to a TB clinic from an HIV clinic. What should the Client Navigator do?",
+    "options": {
+      "A": "Assume the client attended the TB clinic.",
+      "B": "Follow up according to approved procedures to confirm that the client accessed TB services and document the outcome.",
+      "C": "Change the client's HIV diagnosis.",
+      "D": "Stop providing support."
+    },
+    "correctAnswer": "B",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q22",
+    "roleId": "client_navigator",
+    "questionNumber": 22,
+    "questionText": "Why is referral documentation important?",
+    "options": {
+      "A": "It provides evidence of the referral, supports follow-up and helps ensure continuity of care.",
+      "B": "It increases paperwork without any purpose.",
+      "C": "It replaces clinical records.",
+      "D": "It prevents clients from accessing other services."
+    },
+    "correctAnswer": "A",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q23",
+    "roleId": "client_navigator",
+    "questionNumber": 23,
+    "questionText": "What should happen if a client does not complete a referral?",
+    "options": {
+      "A": "Ignore the client.",
+      "B": "Identify barriers, communicate with the appropriate team and support completion through approved procedures.",
+      "C": "Publicly disclose the client's information.",
+      "D": "Close the referral as successful."
+    },
+    "correctAnswer": "B",
+    "topic": "Referral Systems & Closed-Loop Referrals",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q24",
+    "roleId": "client_navigator",
+    "questionNumber": 24,
+    "questionText": "What does HIV stand for?",
+    "options": {
+      "A": "Human Immunodeficiency Virus.",
+      "B": "Human Infection Virus.",
+      "C": "Health Immunity Variation.",
+      "D": "Human Immune Vaccine."
+    },
+    "correctAnswer": "A",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q25",
+    "roleId": "client_navigator",
+    "questionNumber": 25,
+    "questionText": "What does ART stand for?",
+    "options": {
+      "A": "Antiretroviral Therapy.",
+      "B": "Advanced Research Treatment.",
+      "C": "Antimalaria Response Therapy.",
+      "D": "Assisted Recovery Treatment."
+    },
+    "correctAnswer": "A",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q26",
+    "roleId": "client_navigator",
+    "questionNumber": 26,
+    "questionText": "What is the primary purpose of antiretroviral therapy?",
+    "options": {
+      "A": "To cure every HIV infection.",
+      "B": "To suppress HIV replication and support long-term health.",
+      "C": "To treat malaria.",
+      "D": "To prevent tuberculosis only."
+    },
+    "correctAnswer": "B",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q27",
+    "roleId": "client_navigator",
+    "questionNumber": 27,
+    "questionText": "What is the meaning of viral load?",
+    "options": {
+      "A": "The amount of HIV genetic material in a person's blood.",
+      "B": "The number of medications taken daily.",
+      "C": "The number of white blood cells only.",
+      "D": "The amount of sugar in the blood."
+    },
+    "correctAnswer": "A",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q28",
+    "roleId": "client_navigator",
+    "questionNumber": 28,
+    "questionText": "What does viral suppression mean?",
+    "options": {
+      "A": "HIV has been completely eliminated from the body.",
+      "B": "HIV has been reduced to a very low level through effective treatment.",
+      "C": "The client has stopped taking medication.",
+      "D": "The client no longer requires medical follow-up."
+    },
+    "correctAnswer": "B",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q29",
+    "roleId": "client_navigator",
+    "questionNumber": 29,
+    "questionText": "What is the appropriate role of a Client Navigator when supporting someone living with HIV?",
+    "options": {
+      "A": "Disclose the person's HIV status to family members without permission.",
+      "B": "Support appointment attendance, treatment continuity, referrals and confidential follow-up.",
+      "C": "Prescribe antiretroviral drugs.",
+      "D": "Change laboratory results."
+    },
+    "correctAnswer": "B",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q30",
+    "roleId": "client_navigator",
+    "questionNumber": 30,
+    "questionText": "What does ART adherence mean?",
+    "options": {
+      "A": "Taking prescribed antiretroviral medication according to the healthcare provider's instructions.",
+      "B": "Taking medication only when symptoms appear.",
+      "C": "Stopping medication when the client feels healthy.",
+      "D": "Sharing medication with relatives."
+    },
+    "correctAnswer": "A",
+    "topic": "HIV-Related Services & ART",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q31",
+    "roleId": "client_navigator",
+    "questionNumber": 31,
+    "questionText": "What does TB stand for?",
+    "options": {
+      "A": "Tuberculosis.",
+      "B": "Total Blood.",
+      "C": "Treatment Balance.",
+      "D": "Tissue Biopsy."
+    },
+    "correctAnswer": "A",
+    "topic": "Tuberculosis (TB) Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q32",
+    "roleId": "client_navigator",
+    "questionNumber": 32,
+    "questionText": "How is pulmonary tuberculosis mainly transmitted?",
+    "options": {
+      "A": "Through mosquito bites.",
+      "B": "Through infectious airborne particles released by a person with infectious TB.",
+      "C": "Through sharing clothes.",
+      "D": "Through handshakes."
+    },
+    "correctAnswer": "B",
+    "topic": "Tuberculosis (TB) Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q33",
+    "roleId": "client_navigator",
+    "questionNumber": 33,
+    "questionText": "Which of the following may be symptoms of pulmonary TB?",
+    "options": {
+      "A": "Persistent cough, fever, night sweats and weight loss.",
+      "B": "Only headache.",
+      "C": "Only joint pain.",
+      "D": "Toothache."
+    },
+    "correctAnswer": "A",
+    "topic": "Tuberculosis (TB) Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q34",
+    "roleId": "client_navigator",
+    "questionNumber": 34,
+    "questionText": "What should a Client Navigator do when a client reports symptoms suggestive of TB?",
+    "options": {
+      "A": "Prescribe TB medication.",
+      "B": "Support prompt referral to an appropriate health facility for assessment and testing, following approved procedures.",
+      "C": "Ignore the symptoms.",
+      "D": "Announce the client's condition publicly."
+    },
+    "correctAnswer": "B",
+    "topic": "Tuberculosis (TB) Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q35",
+    "roleId": "client_navigator",
+    "questionNumber": 35,
+    "questionText": "Why is TB treatment adherence important?",
+    "options": {
+      "A": "It supports treatment success and reduces the risk of treatment failure and drug resistance.",
+      "B": "It increases the duration of illness.",
+      "C": "It eliminates the need for medical supervision.",
+      "D": "It makes diagnosis unnecessary."
+    },
+    "correctAnswer": "A",
+    "topic": "Tuberculosis (TB) Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q36",
+    "roleId": "client_navigator",
+    "questionNumber": 36,
+    "questionText": "Which mosquito transmits malaria?",
+    "options": {
+      "A": "Female Anopheles.",
+      "B": "Housefly.",
+      "C": "Tsetse fly.",
+      "D": "Cockroach."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q37",
+    "roleId": "client_navigator",
+    "questionNumber": 37,
+    "questionText": "What is the importance of malaria testing before treatment?",
+    "options": {
+      "A": "To support appropriate diagnosis and treatment decisions.",
+      "B": "To determine a person's blood group.",
+      "C": "To diagnose HIV.",
+      "D": "To replace antenatal care."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q38",
+    "roleId": "client_navigator",
+    "questionNumber": 38,
+    "questionText": "What does MNCH stand for?",
+    "options": {
+      "A": "Maternal, Newborn and Child Health.",
+      "B": "Medical Nursing and Community Health.",
+      "C": "Maternal Nutrition and Child Hygiene.",
+      "D": "Management of Neonatal Clinical Hospitals."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q39",
+    "roleId": "client_navigator",
+    "questionNumber": 39,
+    "questionText": "What does ANC stand for?",
+    "options": {
+      "A": "Antenatal Care.",
+      "B": "Annual Nursing Census.",
+      "C": "Advanced Neonatal Care.",
+      "D": "Antimalaria Nursing Clinic."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q40",
+    "roleId": "client_navigator",
+    "questionNumber": 40,
+    "questionText": "What is the importance of antenatal care?",
+    "options": {
+      "A": "Monitoring maternal and fetal health during pregnancy and identifying possible complications.",
+      "B": "Providing treatment only after childbirth.",
+      "C": "Replacing all delivery services.",
+      "D": "Treating only malaria."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q41",
+    "roleId": "client_navigator",
+    "questionNumber": 41,
+    "questionText": "What is postnatal care?",
+    "options": {
+      "A": "Care provided to the mother and newborn after childbirth.",
+      "B": "Care provided only before pregnancy.",
+      "C": "Treatment for TB.",
+      "D": "HIV testing alone."
+    },
+    "correctAnswer": "A",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q42",
+    "roleId": "client_navigator",
+    "questionNumber": 42,
+    "questionText": "What should a Client Navigator do when a pregnant woman misses an important antenatal appointment?",
+    "options": {
+      "A": "Ignore her.",
+      "B": "Follow up confidentially and support her return to antenatal services in accordance with approved procedures.",
+      "C": "Prescribe medication.",
+      "D": "Remove her from the programme."
+    },
+    "correctAnswer": "B",
+    "topic": "Malaria & MNCH Services",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q43",
+    "roleId": "client_navigator",
+    "questionNumber": 43,
+    "questionText": "What is patient confidentiality?",
+    "options": {
+      "A": "Sharing patient information with friends.",
+      "B": "Protecting a client's personal and medical information from unauthorised disclosure.",
+      "C": "Publishing medical records online.",
+      "D": "Giving patient records to community members."
+    },
+    "correctAnswer": "B",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q44",
+    "roleId": "client_navigator",
+    "questionNumber": 44,
+    "questionText": "Can a Client Navigator disclose a client's HIV status to a neighbour?",
+    "options": {
+      "A": "Yes.",
+      "B": "Only when the neighbour requests it.",
+      "C": "No, not without proper legal authority or the client's valid consent.",
+      "D": "Yes, if the neighbour is curious."
+    },
+    "correctAnswer": "C",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q45",
+    "roleId": "client_navigator",
+    "questionNumber": 45,
+    "questionText": "What should you do before contacting a client about a sensitive health appointment?",
+    "options": {
+      "A": "Contact anyone who answers the phone.",
+      "B": "Follow the approved communication and consent procedures, including checking whether the contact method is safe.",
+      "C": "Send the client's diagnosis to a group chat.",
+      "D": "Ask the client's neighbours to intervene."
+    },
+    "correctAnswer": "B",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q46",
+    "roleId": "client_navigator",
+    "questionNumber": 46,
+    "questionText": "What is informed consent?",
+    "options": {
+      "A": "Giving a client information about a proposed activity and obtaining their voluntary agreement.",
+      "B": "Forcing a client to accept a service.",
+      "C": "Making decisions without informing a client.",
+      "D": "Sharing information without permission."
+    },
+    "correctAnswer": "A",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q47",
+    "roleId": "client_navigator",
+    "questionNumber": 47,
+    "questionText": "What is stigma in healthcare?",
+    "options": {
+      "A": "Discrimination or negative attitudes towards people because of a health condition or other characteristic.",
+      "B": "Providing respectful care.",
+      "C": "Supporting treatment adherence.",
+      "D": "Providing counselling."
+    },
+    "correctAnswer": "A",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q48",
+    "roleId": "client_navigator",
+    "questionNumber": 48,
+    "questionText": "How should a Client Navigator treat a client living with HIV?",
+    "options": {
+      "A": "With discrimination.",
+      "B": "With respect, dignity, empathy and confidentiality.",
+      "C": "By avoiding communication.",
+      "D": "By disclosing their status."
+    },
+    "correctAnswer": "B",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q49",
+    "roleId": "client_navigator",
+    "questionNumber": 49,
+    "questionText": "What should you do if a client refuses a referral?",
+    "options": {
+      "A": "Force the client to attend.",
+      "B": "Respect the client's decision, explore concerns, provide appropriate information and document the interaction according to procedures.",
+      "C": "Threaten the client.",
+      "D": "Remove the client from all services."
+    },
+    "correctAnswer": "B",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q50",
+    "roleId": "client_navigator",
+    "questionNumber": 50,
+    "questionText": "What is the appropriate action when a client reports abuse or a safeguarding concern?",
+    "options": {
+      "A": "Ignore the report.",
+      "B": "Follow safeguarding procedures, prioritise immediate safety and report through authorised channels.",
+      "C": "Share the story with other clients.",
+      "D": "Investigate and confront the alleged perpetrator independently."
+    },
+    "correctAnswer": "B",
+    "topic": "Confidentiality, Ethics & Safeguarding",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q51",
+    "roleId": "client_navigator",
+    "questionNumber": 51,
+    "questionText": "Which of the following best describes the difference between the two roles?",
+    "options": {
+      "A": "They are exactly the same.",
+      "B": "A Client Navigator provides broader integrated health-service navigation, while a Maternal and Child Peer Navigator has a specialized maternal and child peer-support function.",
+      "C": "A Client Navigator only works in laboratories.",
+      "D": "A Maternal and Child Peer Navigator only handles pharmacy supplies."
+    },
+    "correctAnswer": "B",
+    "topic": "Client Navigator Role Distinction",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q52",
+    "roleId": "client_navigator",
+    "questionNumber": 52,
+    "questionText": "If a pregnant woman needs antenatal care, what should a Client Navigator do?",
+    "options": {
+      "A": "Refuse to assist because the position is not a maternal health position.",
+      "B": "Support her linkage to the appropriate antenatal service within the approved scope and coordinate with the relevant specialized team where necessary.",
+      "C": "Perform an antenatal examination.",
+      "D": "Prescribe antenatal medication."
+    },
+    "correctAnswer": "B",
+    "topic": "Client Navigator Role Distinction",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q53",
+    "roleId": "client_navigator",
+    "questionNumber": 53,
+    "questionText": "A client living with HIV has missed two scheduled clinic appointments. What should you do first?",
+    "options": {
+      "A": "Delete the client's records.",
+      "B": "Follow the approved, confidential follow-up process and establish the reason for the missed appointments.",
+      "C": "Disclose the client's HIV status to relatives.",
+      "D": "Stop the client's treatment."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q54",
+    "roleId": "client_navigator",
+    "questionNumber": 54,
+    "questionText": "A client has been referred from one facility to another but has not attended the receiving facility. What should you do?",
+    "options": {
+      "A": "Close the referral as completed.",
+      "B": "Follow up through approved procedures, identify barriers and support completion of the referral.",
+      "C": "Ignore the client.",
+      "D": "Change the referral record to successful."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q55",
+    "roleId": "client_navigator",
+    "questionNumber": 55,
+    "questionText": "A client tells you that transport costs are preventing them from attending appointments. What is the best response?",
+    "options": {
+      "A": "Blame the client.",
+      "B": "Understand the barrier and explore available approved support or alternative service arrangements with the relevant team.",
+      "C": "Stop contacting the client.",
+      "D": "Promise money from project funds without authorisation."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q56",
+    "roleId": "client_navigator",
+    "questionNumber": 56,
+    "questionText": "A client does not want to disclose their HIV status to family members. What should you do?",
+    "options": {
+      "A": "Tell the family anyway.",
+      "B": "Respect the client's confidentiality and provide support without unauthorised disclosure.",
+      "C": "Refuse to provide any assistance.",
+      "D": "Inform the community leader."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q57",
+    "roleId": "client_navigator",
+    "questionNumber": 57,
+    "questionText": "A client complains that a health worker treated them disrespectfully. What should you do?",
+    "options": {
+      "A": "Ignore the complaint.",
+      "B": "Listen respectfully, document and escalate through the appropriate complaint or feedback mechanism.",
+      "C": "Argue with the client.",
+      "D": "Publicly criticise the health worker."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q58",
+    "roleId": "client_navigator",
+    "questionNumber": 58,
+    "questionText": "A client needs both HIV and TB services. What is your responsibility?",
+    "options": {
+      "A": "Refer the client to only one service.",
+      "B": "Support linkage to both appropriate services, coordinate with relevant facility teams and promote continuity of care.",
+      "C": "Diagnose the client with both diseases.",
+      "D": "Tell the client to visit any facility without guidance."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q59",
+    "roleId": "client_navigator",
+    "questionNumber": 59,
+    "questionText": "You are unable to reach a client by telephone. What should you do?",
+    "options": {
+      "A": "Share the client's phone number publicly.",
+      "B": "Document the unsuccessful attempt and follow the approved alternative follow-up procedures.",
+      "C": "Delete the client from the register.",
+      "D": "Assume the client has completed treatment."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q60",
+    "roleId": "client_navigator",
+    "questionNumber": 60,
+    "questionText": "A client becomes angry during a follow-up interaction. What should you do?",
+    "options": {
+      "A": "Respond aggressively.",
+      "B": "Remain calm, listen actively, demonstrate empathy and seek appropriate assistance if necessary.",
+      "C": "Threaten the client.",
+      "D": "End all communication permanently."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q61",
+    "roleId": "client_navigator",
+    "questionNumber": 61,
+    "questionText": "A client is referred to a laboratory but has not received the required test result. What should you do?",
+    "options": {
+      "A": "Create a result yourself.",
+      "B": "Coordinate with the appropriate laboratory or facility team to establish the status and support the next step.",
+      "C": "Ignore the issue.",
+      "D": "Give the client an assumed result."
+    },
+    "correctAnswer": "B",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  },
+  {
+    "id": "cn_supp_q62",
+    "roleId": "client_navigator",
+    "questionNumber": 62,
+    "questionText": "What should you do when a client's contact details change?",
+    "options": {
+      "A": "Update the approved records according to procedures and consent requirements.",
+      "B": "Continue using the old number indefinitely.",
+      "C": "Delete the entire client file.",
+      "D": "Share the new number with everyone."
+    },
+    "correctAnswer": "A",
+    "topic": "Practical Workplace Scenarios",
+    "source": "bridge_supplementary"
+  }
+]

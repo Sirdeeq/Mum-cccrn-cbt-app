@@ -1,0 +1,43 @@
+[
+  {
+    "id": "data_assistant",
+    "title": "Integrated Data Assistant",
+    "focus": "Data entry, E-Deck support, record reconciliation, data completeness and quality assurance.",
+    "iconName": "Database",
+    "questionCount": 100,
+    "topicsCount": 20
+  },
+  {
+    "id": "lab_optimizer",
+    "title": "Integrated Laboratory Service Optimizer",
+    "focus": "Laboratory QA, specimen handling, biosafety, turnaround time, equipment maintenance and result management.",
+    "iconName": "FlaskConical",
+    "questionCount": 100,
+    "topicsCount": 20
+  },
+  {
+    "id": "testing_assistant",
+    "title": "Integrated Testing Assistant",
+    "focus": "Rapid diagnostic testing, specimen integrity, infection prevention, QC and reactive result linkage.",
+    "iconName": "Activity",
+    "questionCount": 100,
+    "topicsCount": 20
+  },
+  {
+    "id": "health_qi_optimizer",
+    "title": "Integrated Health / Quality Improvement Service Optimizer",
+    "focus": "Continuous quality improvement (CQI), PDSA cycles, indicator tracking, workflow optimization and mentorship.",
+    "iconName": "TrendingUp",
+    "questionCount": 100,
+    "topicsCount": 20
+  },
+  {
+    "id": "client_navigator",
+    "title": "Client Navigator",
+    "focus": "Client navigation, linkage to care, appointment tracking, retention, closed-loop referrals and adherence support.",
+    "iconName": "HeartHandshake",
+    "questionCount": 100,
+    "supplementaryCount": 62,
+    "topicsCount": 20
+  }
+]

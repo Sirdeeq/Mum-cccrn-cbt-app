@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "lab_optimizer_q1",
+    "roleId": "lab_optimizer",
+    "questionNumber": 1,
+    "questionText": "What best describes specimen identification?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "ignore the current SOP",
+      "C": "linking each specimen to the correct client using approved identifiers",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q2",
+    "roleId": "lab_optimizer",
+    "questionNumber": 2,
+    "questionText": "Which action best demonstrates good practice for specimen identification?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "share results with anyone who asks",
+      "D": "verify the required client identifiers against the request and specimen before processing"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q3",
+    "roleId": "lab_optimizer",
+    "questionNumber": 3,
+    "questionText": "A worker encounters an issue involving specimen identification. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "skip specimen tracking after dispatch",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "stop and clarify any mismatch before the specimen proceeds"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q4",
+    "roleId": "lab_optimizer",
+    "questionNumber": 4,
+    "questionText": "Why is specimen identification important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "it prevents mix-ups and supports valid patient results"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q5",
+    "roleId": "lab_optimizer",
+    "questionNumber": 5,
+    "questionText": "Which statement about specimen identification is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "a specimen with an unresolved identification mismatch must be handled under the laboratory rejection or clarification procedure",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Identification",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q6",
+    "roleId": "lab_optimizer",
+    "questionNumber": 6,
+    "questionText": "What best describes specimen collection?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "obtaining a sample using the correct approved procedure and suitable container",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Collection",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q7",
+    "roleId": "lab_optimizer",
+    "questionNumber": 7,
+    "questionText": "Which action best demonstrates good practice for specimen collection?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "ensure collection follows the relevant SOP and is performed by authorised personnel",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "share results with anyone who asks"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Collection",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q8",
+    "roleId": "lab_optimizer",
+    "questionNumber": 8,
+    "questionText": "A worker encounters an issue involving specimen collection. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "clean spills without assessing the risk or using the SOP",
+      "C": "confirm that the collector, container and procedure meet the approved requirements",
+      "D": "skip specimen tracking after dispatch"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Collection",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q9",
+    "roleId": "lab_optimizer",
+    "questionNumber": 9,
+    "questionText": "Why is specimen collection important in this role?",
+    "options": {
+      "A": "poor collection can compromise specimen quality and test reliability",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Collection",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q10",
+    "roleId": "lab_optimizer",
+    "questionNumber": 10,
+    "questionText": "Which statement about specimen collection is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "share results with anyone who asks",
+      "C": "collection activities must remain within staff qualification and authorisation",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Collection",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q11",
+    "roleId": "lab_optimizer",
+    "questionNumber": 11,
+    "questionText": "What best describes specimen labelling?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "placing accurate, legible and required identifying information on a specimen container",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q12",
+    "roleId": "lab_optimizer",
+    "questionNumber": 12,
+    "questionText": "Which action best demonstrates good practice for specimen labelling?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "ignore equipment faults and continue testing",
+      "C": "label the specimen immediately according to facility policy and match it to the request",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q13",
+    "roleId": "lab_optimizer",
+    "questionNumber": 13,
+    "questionText": "A worker encounters an issue involving specimen labelling. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "hold the specimen and resolve any missing or mismatched label through the approved procedure",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q14",
+    "roleId": "lab_optimizer",
+    "questionNumber": 14,
+    "questionText": "Why is specimen labelling important in this role?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "it preserves traceability throughout the testing pathway",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q15",
+    "roleId": "lab_optimizer",
+    "questionNumber": 15,
+    "questionText": "Which statement about specimen labelling is correct?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "do not guess a specimen identity or relabel it from memory",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Labelling",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q16",
+    "roleId": "lab_optimizer",
+    "questionNumber": 16,
+    "questionText": "What best describes specimen processing?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "ignore the current SOP",
+      "D": "preparing a received specimen for the requested examination under the relevant SOP"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Processing",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q17",
+    "roleId": "lab_optimizer",
+    "questionNumber": 17,
+    "questionText": "Which action best demonstrates good practice for specimen processing?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "follow the test-specific SOP and document required processing steps",
+      "C": "share results with anyone who asks",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Processing",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q18",
+    "roleId": "lab_optimizer",
+    "questionNumber": 18,
+    "questionText": "A worker encounters an issue involving specimen processing. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "check specimen acceptability and the relevant SOP before processing",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "skip specimen tracking after dispatch"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Processing",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q19",
+    "roleId": "lab_optimizer",
+    "questionNumber": 19,
+    "questionText": "Why is specimen processing important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "guess the missing label from the patient's name",
+      "D": "standard processing supports reproducible and reliable results"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Processing",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q20",
+    "roleId": "lab_optimizer",
+    "questionNumber": 20,
+    "questionText": "Which statement about specimen processing is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "do not improvise processing steps when an SOP is available",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Specimen Processing",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q21",
+    "roleId": "lab_optimizer",
+    "questionNumber": 21,
+    "questionText": "What best describes specimen packaging?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "preparing a specimen safely for storage or transport using approved packaging requirements",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Packaging",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q22",
+    "roleId": "lab_optimizer",
+    "questionNumber": 22,
+    "questionText": "Which action best demonstrates good practice for specimen packaging?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "ignore equipment faults and continue testing",
+      "C": "use the required leak-proof and protective packaging and documentation",
+      "D": "share results with anyone who asks"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Packaging",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q23",
+    "roleId": "lab_optimizer",
+    "questionNumber": 23,
+    "questionText": "A worker encounters an issue involving specimen packaging. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "clean spills without assessing the risk or using the SOP",
+      "C": "skip specimen tracking after dispatch",
+      "D": "check the packaging requirements and specimen category before dispatch"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Packaging",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q24",
+    "roleId": "lab_optimizer",
+    "questionNumber": 24,
+    "questionText": "Why is specimen packaging important in this role?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "ignore the current SOP",
+      "C": "it protects handlers, the specimen and the environment",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Packaging",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q25",
+    "roleId": "lab_optimizer",
+    "questionNumber": 25,
+    "questionText": "Which statement about specimen packaging is correct?",
+    "options": {
+      "A": "never dispatch a leaking or inadequately packaged specimen",
+      "B": "ignore equipment faults and continue testing",
+      "C": "share results with anyone who asks",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Packaging",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q26",
+    "roleId": "lab_optimizer",
+    "questionNumber": 26,
+    "questionText": "What best describes specimen referral?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "sending a specimen to an appropriate testing laboratory with traceable documentation",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Referral",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q27",
+    "roleId": "lab_optimizer",
+    "questionNumber": 27,
+    "questionText": "Which action best demonstrates good practice for specimen referral?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "share results with anyone who asks",
+      "C": "use the approved referral pathway and track dispatch and receipt",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "C",
+    "topic": "Specimen Referral",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q28",
+    "roleId": "lab_optimizer",
+    "questionNumber": 28,
+    "questionText": "A worker encounters an issue involving specimen referral. What is the most appropriate first response?",
+    "options": {
+      "A": "confirm the receiving laboratory, transport arrangements and required forms",
+      "B": "skip specimen tracking after dispatch",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Referral",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q29",
+    "roleId": "lab_optimizer",
+    "questionNumber": 29,
+    "questionText": "Why is specimen referral important in this role?",
+    "options": {
+      "A": "it supports access to tests that are not available on site",
+      "B": "ignore the current SOP",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "A",
+    "topic": "Specimen Referral",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q30",
+    "roleId": "lab_optimizer",
+    "questionNumber": 30,
+    "questionText": "Which statement about specimen referral is correct?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "ignore equipment faults and continue testing",
+      "D": "a referral is not complete until receipt and the required follow-up are confirmed"
+    },
+    "correctAnswer": "D",
+    "topic": "Specimen Referral",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q31",
+    "roleId": "lab_optimizer",
+    "questionNumber": 31,
+    "questionText": "What best describes turnaround time?",
+    "options": {
+      "A": "the elapsed time between defined stages of a test request and result availability",
+      "B": "guess the missing label from the patient's name",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "A",
+    "topic": "Turnaround Time",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q32",
+    "roleId": "lab_optimizer",
+    "questionNumber": 32,
+    "questionText": "Which action best demonstrates good practice for turnaround time?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "share results with anyone who asks",
+      "C": "monitor turnaround time using the project's approved start and end points",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "C",
+    "topic": "Turnaround Time",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q33",
+    "roleId": "lab_optimizer",
+    "questionNumber": 33,
+    "questionText": "A worker encounters an issue involving turnaround time. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "change the reported result to match expectations",
+      "C": "identify where delays occur in the specimen and testing pathway",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Turnaround Time",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q34",
+    "roleId": "lab_optimizer",
+    "questionNumber": 34,
+    "questionText": "Why is turnaround time important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "it helps facilities assess timeliness and identify bottlenecks",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Turnaround Time",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q35",
+    "roleId": "lab_optimizer",
+    "questionNumber": 35,
+    "questionText": "Which statement about turnaround time is correct?",
+    "options": {
+      "A": "do not report a turnaround time without using the agreed definition",
+      "B": "share results with anyone who asks",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Turnaround Time",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q36",
+    "roleId": "lab_optimizer",
+    "questionNumber": 36,
+    "questionText": "What best describes result return?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "guess the missing label from the patient's name",
+      "C": "ensuring test results reach the authorised requesting provider or service point",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Result Return",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q37",
+    "roleId": "lab_optimizer",
+    "questionNumber": 37,
+    "questionText": "Which action best demonstrates good practice for result return?",
+    "options": {
+      "A": "track pending results and follow the approved result-return process",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Result Return",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q38",
+    "roleId": "lab_optimizer",
+    "questionNumber": 38,
+    "questionText": "A worker encounters an issue involving result return. What is the most appropriate first response?",
+    "options": {
+      "A": "clean spills without assessing the risk or using the SOP",
+      "B": "identify the pending result and contact the responsible laboratory pathway",
+      "C": "skip specimen tracking after dispatch",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "B",
+    "topic": "Result Return",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q39",
+    "roleId": "lab_optimizer",
+    "questionNumber": 39,
+    "questionText": "Why is result return important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "results are useful only when they reach the appropriate care team in time",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Result Return",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q40",
+    "roleId": "lab_optimizer",
+    "questionNumber": 40,
+    "questionText": "Which statement about result return is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "share results with anyone who asks",
+      "C": "ignore equipment faults and continue testing",
+      "D": "never disclose results to an unauthorised person"
+    },
+    "correctAnswer": "D",
+    "topic": "Result Return",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q41",
+    "roleId": "lab_optimizer",
+    "questionNumber": 41,
+    "questionText": "What best describes laboratory quality assurance?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "guess the missing label from the patient's name",
+      "C": "ignore the current SOP",
+      "D": "the planned system of activities that helps ensure laboratory services are reliable"
+    },
+    "correctAnswer": "D",
+    "topic": "Laboratory Quality Assurance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q42",
+    "roleId": "lab_optimizer",
+    "questionNumber": 42,
+    "questionText": "Which action best demonstrates good practice for laboratory quality assurance?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "support documented quality procedures, review findings and corrective actions",
+      "C": "share results with anyone who asks",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "B",
+    "topic": "Laboratory Quality Assurance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q43",
+    "roleId": "lab_optimizer",
+    "questionNumber": 43,
+    "questionText": "A worker encounters an issue involving laboratory quality assurance. What is the most appropriate first response?",
+    "options": {
+      "A": "clean spills without assessing the risk or using the SOP",
+      "B": "change the reported result to match expectations",
+      "C": "review the applicable quality requirement and record the observed gap",
+      "D": "skip specimen tracking after dispatch"
+    },
+    "correctAnswer": "C",
+    "topic": "Laboratory Quality Assurance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q44",
+    "roleId": "lab_optimizer",
+    "questionNumber": 44,
+    "questionText": "Why is laboratory quality assurance important in this role?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "it builds confidence in the reliability of laboratory services",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "B",
+    "topic": "Laboratory Quality Assurance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q45",
+    "roleId": "lab_optimizer",
+    "questionNumber": 45,
+    "questionText": "Which statement about laboratory quality assurance is correct?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "share results with anyone who asks",
+      "C": "quality assurance is broader than checking one test control",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "C",
+    "topic": "Laboratory Quality Assurance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q46",
+    "roleId": "lab_optimizer",
+    "questionNumber": 46,
+    "questionText": "What best describes internal quality control?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "routine checks used to assess whether a test system is performing acceptably",
+      "C": "guess the missing label from the patient's name",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "B",
+    "topic": "Internal Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q47",
+    "roleId": "lab_optimizer",
+    "questionNumber": 47,
+    "questionText": "Which action best demonstrates good practice for internal quality control?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "run and review controls according to the test SOP and manufacturer instructions",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q48",
+    "roleId": "lab_optimizer",
+    "questionNumber": 48,
+    "questionText": "A worker encounters an issue involving internal quality control. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "check control acceptance before releasing patient results",
+      "C": "skip specimen tracking after dispatch",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "B",
+    "topic": "Internal Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q49",
+    "roleId": "lab_optimizer",
+    "questionNumber": 49,
+    "questionText": "Why is internal quality control important in this role?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "ignore the current SOP",
+      "C": "it helps identify problems before results are reported",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q50",
+    "roleId": "lab_optimizer",
+    "questionNumber": 50,
+    "questionText": "Which statement about internal quality control is correct?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "do not release results when required controls are unacceptable",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Internal Quality Control",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q51",
+    "roleId": "lab_optimizer",
+    "questionNumber": 51,
+    "questionText": "What best describes external quality assessment?",
+    "options": {
+      "A": "an external comparison or proficiency process used to assess laboratory performance",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "A",
+    "topic": "External Quality Assessment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q52",
+    "roleId": "lab_optimizer",
+    "questionNumber": 52,
+    "questionText": "Which action best demonstrates good practice for external quality assessment?",
+    "options": {
+      "A": "participate in the approved EQA process and review feedback for improvement",
+      "B": "share results with anyone who asks",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "A",
+    "topic": "External Quality Assessment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q53",
+    "roleId": "lab_optimizer",
+    "questionNumber": 53,
+    "questionText": "A worker encounters an issue involving external quality assessment. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "review the EQA result and agree on corrective action for any unsatisfactory finding",
+      "C": "change the reported result to match expectations",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "B",
+    "topic": "External Quality Assessment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q54",
+    "roleId": "lab_optimizer",
+    "questionNumber": 54,
+    "questionText": "Why is external quality assessment important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "it provides an independent view of testing performance"
+    },
+    "correctAnswer": "D",
+    "topic": "External Quality Assessment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q55",
+    "roleId": "lab_optimizer",
+    "questionNumber": 55,
+    "questionText": "Which statement about external quality assessment is correct?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "do not alter EQA results to make performance appear satisfactory",
+      "C": "ignore equipment faults and continue testing",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "B",
+    "topic": "External Quality Assessment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q56",
+    "roleId": "lab_optimizer",
+    "questionNumber": 56,
+    "questionText": "What best describes standard operating procedure?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "a controlled written instruction describing how an activity must be performed",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "B",
+    "topic": "Standard Operating Procedure",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q57",
+    "roleId": "lab_optimizer",
+    "questionNumber": 57,
+    "questionText": "Which action best demonstrates good practice for standard operating procedure?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "ignore equipment faults and continue testing",
+      "C": "share results with anyone who asks",
+      "D": "use the current approved SOP and document activities as required"
+    },
+    "correctAnswer": "D",
+    "topic": "Standard Operating Procedure",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q58",
+    "roleId": "lab_optimizer",
+    "questionNumber": 58,
+    "questionText": "A worker encounters an issue involving standard operating procedure. What is the most appropriate first response?",
+    "options": {
+      "A": "clean spills without assessing the risk or using the SOP",
+      "B": "change the reported result to match expectations",
+      "C": "confirm that the correct current SOP is available at the work point",
+      "D": "skip specimen tracking after dispatch"
+    },
+    "correctAnswer": "C",
+    "topic": "Standard Operating Procedure",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q59",
+    "roleId": "lab_optimizer",
+    "questionNumber": 59,
+    "questionText": "Why is standard operating procedure important in this role?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "it promotes consistent work and reduces avoidable variation"
+    },
+    "correctAnswer": "D",
+    "topic": "Standard Operating Procedure",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q60",
+    "roleId": "lab_optimizer",
+    "questionNumber": 60,
+    "questionText": "Which statement about standard operating procedure is correct?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "share results with anyone who asks",
+      "D": "an outdated personal note must not replace an approved SOP"
+    },
+    "correctAnswer": "D",
+    "topic": "Standard Operating Procedure",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q61",
+    "roleId": "lab_optimizer",
+    "questionNumber": 61,
+    "questionText": "What best describes biosafety?",
+    "options": {
+      "A": "practices that reduce exposure to biological hazards and protect staff, clients and the environment",
+      "B": "guess the missing label from the patient's name",
+      "C": "ignore the current SOP",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "A",
+    "topic": "Biosafety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q62",
+    "roleId": "lab_optimizer",
+    "questionNumber": 62,
+    "questionText": "Which action best demonstrates good practice for biosafety?",
+    "options": {
+      "A": "apply risk-based precautions, PPE, hand hygiene and safe waste procedures",
+      "B": "ignore equipment faults and continue testing",
+      "C": "share results with anyone who asks",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "A",
+    "topic": "Biosafety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q63",
+    "roleId": "lab_optimizer",
+    "questionNumber": 63,
+    "questionText": "A worker encounters an issue involving biosafety. What is the most appropriate first response?",
+    "options": {
+      "A": "assess the hazard and follow the facility biosafety procedure",
+      "B": "skip specimen tracking after dispatch",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "A",
+    "topic": "Biosafety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q64",
+    "roleId": "lab_optimizer",
+    "questionNumber": 64,
+    "questionText": "Why is biosafety important in this role?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "ignore the current SOP",
+      "C": "it prevents occupational exposure and cross-contamination",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Biosafety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q65",
+    "roleId": "lab_optimizer",
+    "questionNumber": 65,
+    "questionText": "Which statement about biosafety is correct?",
+    "options": {
+      "A": "never handle a specimen as if it were harmless",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Biosafety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q66",
+    "roleId": "lab_optimizer",
+    "questionNumber": 66,
+    "questionText": "What best describes personal protective equipment?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "guess the missing label from the patient's name",
+      "C": "protective clothing or equipment selected for the task and exposure risk",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q67",
+    "roleId": "lab_optimizer",
+    "questionNumber": 67,
+    "questionText": "Which action best demonstrates good practice for personal protective equipment?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "share results with anyone who asks",
+      "C": "wear the PPE required by the activity and remove it safely",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q68",
+    "roleId": "lab_optimizer",
+    "questionNumber": 68,
+    "questionText": "A worker encounters an issue involving personal protective equipment. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "change the reported result to match expectations",
+      "C": "check the task-specific PPE requirement before starting",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q69",
+    "roleId": "lab_optimizer",
+    "questionNumber": 69,
+    "questionText": "Why is personal protective equipment important in this role?",
+    "options": {
+      "A": "it reduces exposure when used correctly with other precautions",
+      "B": "guess the missing label from the patient's name",
+      "C": "ignore the current SOP",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "A",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q70",
+    "roleId": "lab_optimizer",
+    "questionNumber": 70,
+    "questionText": "Which statement about personal protective equipment is correct?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "PPE does not replace hand hygiene or safe work practices",
+      "C": "share results with anyone who asks",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "B",
+    "topic": "Personal Protective Equipment",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q71",
+    "roleId": "lab_optimizer",
+    "questionNumber": 71,
+    "questionText": "What best describes sharps safety?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "guess the missing label from the patient's name",
+      "C": "safe handling and disposal of needles and other sharp items",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q72",
+    "roleId": "lab_optimizer",
+    "questionNumber": 72,
+    "questionText": "Which action best demonstrates good practice for sharps safety?",
+    "options": {
+      "A": "dispose of sharps immediately in an approved puncture-resistant sharps container",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "ignore equipment faults and continue testing",
+      "D": "share results with anyone who asks"
+    },
+    "correctAnswer": "A",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q73",
+    "roleId": "lab_optimizer",
+    "questionNumber": 73,
+    "questionText": "A worker encounters an issue involving sharps safety. What is the most appropriate first response?",
+    "options": {
+      "A": "clean spills without assessing the risk or using the SOP",
+      "B": "secure the sharp and use the designated sharps procedure",
+      "C": "skip specimen tracking after dispatch",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "B",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q74",
+    "roleId": "lab_optimizer",
+    "questionNumber": 74,
+    "questionText": "Why is sharps safety important in this role?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "ignore the current SOP",
+      "C": "it reduces needlestick injuries and exposure to blood-borne hazards",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q75",
+    "roleId": "lab_optimizer",
+    "questionNumber": 75,
+    "questionText": "Which statement about sharps safety is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "never recap, bend or leave used sharps on a work surface",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Sharps Safety",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q76",
+    "roleId": "lab_optimizer",
+    "questionNumber": 76,
+    "questionText": "What best describes spill management?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "the approved response to an accidental release of potentially infectious material",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Spill Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q77",
+    "roleId": "lab_optimizer",
+    "questionNumber": 77,
+    "questionText": "Which action best demonstrates good practice for spill management?",
+    "options": {
+      "A": "restrict access and follow the facility spill-response SOP with appropriate PPE",
+      "B": "share results with anyone who asks",
+      "C": "ignore equipment faults and continue testing",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "A",
+    "topic": "Spill Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q78",
+    "roleId": "lab_optimizer",
+    "questionNumber": 78,
+    "questionText": "A worker encounters an issue involving spill management. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "clean spills without assessing the risk or using the SOP",
+      "C": "secure the area and notify the responsible personnel",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "C",
+    "topic": "Spill Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q79",
+    "roleId": "lab_optimizer",
+    "questionNumber": 79,
+    "questionText": "Why is spill management important in this role?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "it limits exposure and contamination",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "B",
+    "topic": "Spill Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q80",
+    "roleId": "lab_optimizer",
+    "questionNumber": 80,
+    "questionText": "Which statement about spill management is correct?",
+    "options": {
+      "A": "do not clean an unknown or hazardous spill using improvised methods",
+      "B": "ignore equipment faults and continue testing",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "share results with anyone who asks"
+    },
+    "correctAnswer": "A",
+    "topic": "Spill Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q81",
+    "roleId": "lab_optimizer",
+    "questionNumber": 81,
+    "questionText": "What best describes equipment maintenance?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "ignore the current SOP",
+      "C": "planned care and servicing that keep laboratory equipment safe and functional",
+      "D": "accept every specimen even when identity is unclear"
+    },
+    "correctAnswer": "C",
+    "topic": "Equipment Maintenance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q82",
+    "roleId": "lab_optimizer",
+    "questionNumber": 82,
+    "questionText": "Which action best demonstrates good practice for equipment maintenance?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "follow the maintenance schedule and document servicing or faults",
+      "C": "ignore equipment faults and continue testing",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "B",
+    "topic": "Equipment Maintenance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q83",
+    "roleId": "lab_optimizer",
+    "questionNumber": 83,
+    "questionText": "A worker encounters an issue involving equipment maintenance. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "skip specimen tracking after dispatch",
+      "C": "remove faulty equipment from use where required and notify the responsible person",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Equipment Maintenance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q84",
+    "roleId": "lab_optimizer",
+    "questionNumber": 84,
+    "questionText": "Why is equipment maintenance important in this role?",
+    "options": {
+      "A": "guess the missing label from the patient's name",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "it supports reliable testing and reduces downtime",
+      "D": "ignore the current SOP"
+    },
+    "correctAnswer": "C",
+    "topic": "Equipment Maintenance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q85",
+    "roleId": "lab_optimizer",
+    "questionNumber": 85,
+    "questionText": "Which statement about equipment maintenance is correct?",
+    "options": {
+      "A": "do not continue using equipment known to be unsafe or malfunctioning",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "ignore equipment faults and continue testing",
+      "D": "share results with anyone who asks"
+    },
+    "correctAnswer": "A",
+    "topic": "Equipment Maintenance",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q86",
+    "roleId": "lab_optimizer",
+    "questionNumber": 86,
+    "questionText": "What best describes equipment calibration?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "checking and adjusting equipment against a known reference according to requirements",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "B",
+    "topic": "Equipment Calibration",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q87",
+    "roleId": "lab_optimizer",
+    "questionNumber": 87,
+    "questionText": "Which action best demonstrates good practice for equipment calibration?",
+    "options": {
+      "A": "ignore equipment faults and continue testing",
+      "B": "dispatch specimens in leaking packaging",
+      "C": "share results with anyone who asks",
+      "D": "ensure calibration is current and documented"
+    },
+    "correctAnswer": "D",
+    "topic": "Equipment Calibration",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q88",
+    "roleId": "lab_optimizer",
+    "questionNumber": 88,
+    "questionText": "A worker encounters an issue involving equipment calibration. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "check the calibration status before use when required by the SOP",
+      "C": "change the reported result to match expectations",
+      "D": "clean spills without assessing the risk or using the SOP"
+    },
+    "correctAnswer": "B",
+    "topic": "Equipment Calibration",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q89",
+    "roleId": "lab_optimizer",
+    "questionNumber": 89,
+    "questionText": "Why is equipment calibration important in this role?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "it supports accuracy of measurements",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "B",
+    "topic": "Equipment Calibration",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q90",
+    "roleId": "lab_optimizer",
+    "questionNumber": 90,
+    "questionText": "Which statement about equipment calibration is correct?",
+    "options": {
+      "A": "do not assume a device is calibrated because it powers on",
+      "B": "share results with anyone who asks",
+      "C": "ignore equipment faults and continue testing",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "A",
+    "topic": "Equipment Calibration",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q91",
+    "roleId": "lab_optimizer",
+    "questionNumber": 91,
+    "questionText": "What best describes reagent management?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "ignore the current SOP",
+      "C": "guess the missing label from the patient's name",
+      "D": "receiving, storing, monitoring and using reagents according to specified conditions"
+    },
+    "correctAnswer": "D",
+    "topic": "Reagent Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q92",
+    "roleId": "lab_optimizer",
+    "questionNumber": 92,
+    "questionText": "Which action best demonstrates good practice for reagent management?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "ignore equipment faults and continue testing",
+      "C": "check expiry, storage conditions, lot details and stock rotation",
+      "D": "dispatch specimens in leaking packaging"
+    },
+    "correctAnswer": "C",
+    "topic": "Reagent Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q93",
+    "roleId": "lab_optimizer",
+    "questionNumber": 93,
+    "questionText": "A worker encounters an issue involving reagent management. What is the most appropriate first response?",
+    "options": {
+      "A": "change the reported result to match expectations",
+      "B": "clean spills without assessing the risk or using the SOP",
+      "C": "quarantine suspect or expired reagents and inform the responsible person",
+      "D": "skip specimen tracking after dispatch"
+    },
+    "correctAnswer": "C",
+    "topic": "Reagent Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q94",
+    "roleId": "lab_optimizer",
+    "questionNumber": 94,
+    "questionText": "Why is reagent management important in this role?",
+    "options": {
+      "A": "accept every specimen even when identity is unclear",
+      "B": "it protects test performance and prevents avoidable stockouts",
+      "C": "ignore the current SOP",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "B",
+    "topic": "Reagent Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q95",
+    "roleId": "lab_optimizer",
+    "questionNumber": 95,
+    "questionText": "Which statement about reagent management is correct?",
+    "options": {
+      "A": "share results with anyone who asks",
+      "B": "never use expired or improperly stored reagents without authorised disposition",
+      "C": "dispatch specimens in leaking packaging",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Reagent Management",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q96",
+    "roleId": "lab_optimizer",
+    "questionNumber": 96,
+    "questionText": "What best describes critical result escalation?",
+    "options": {
+      "A": "ignore the current SOP",
+      "B": "accept every specimen even when identity is unclear",
+      "C": "promptly alerting the authorised clinical team to a result requiring urgent attention under policy",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "C",
+    "topic": "Critical Result Escalation",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q97",
+    "roleId": "lab_optimizer",
+    "questionNumber": 97,
+    "questionText": "Which action best demonstrates good practice for critical result escalation?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "follow the critical-result communication policy and document the notification",
+      "C": "share results with anyone who asks",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Critical Result Escalation",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q98",
+    "roleId": "lab_optimizer",
+    "questionNumber": 98,
+    "questionText": "A worker encounters an issue involving critical result escalation. What is the most appropriate first response?",
+    "options": {
+      "A": "skip specimen tracking after dispatch",
+      "B": "confirm the result and immediately use the approved escalation pathway",
+      "C": "clean spills without assessing the risk or using the SOP",
+      "D": "change the reported result to match expectations"
+    },
+    "correctAnswer": "B",
+    "topic": "Critical Result Escalation",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q99",
+    "roleId": "lab_optimizer",
+    "questionNumber": 99,
+    "questionText": "Why is critical result escalation important in this role?",
+    "options": {
+      "A": "it supports timely clinical action and patient safety",
+      "B": "ignore the current SOP",
+      "C": "accept every specimen even when identity is unclear",
+      "D": "guess the missing label from the patient's name"
+    },
+    "correctAnswer": "A",
+    "topic": "Critical Result Escalation",
+    "source": "500_bank"
+  },
+  {
+    "id": "lab_optimizer_q100",
+    "roleId": "lab_optimizer",
+    "questionNumber": 100,
+    "questionText": "Which statement about critical result escalation is correct?",
+    "options": {
+      "A": "dispatch specimens in leaking packaging",
+      "B": "share results with anyone who asks",
+      "C": "do not delay a critical-result notification until routine monthly reporting",
+      "D": "ignore equipment faults and continue testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Critical Result Escalation",
+    "source": "500_bank"
+  }
+]

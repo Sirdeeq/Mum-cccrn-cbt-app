@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "data_assistant_q1",
+    "roleId": "data_assistant",
+    "questionNumber": 1,
+    "questionText": "What best describes data accuracy?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "share your password with a colleague",
+      "C": "guess missing values from memory",
+      "D": "recording information correctly so that it reflects the source document"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Accuracy",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q2",
+    "roleId": "data_assistant",
+    "questionNumber": 2,
+    "questionText": "Which action best demonstrates good practice for data accuracy?",
+    "options": {
+      "A": "compare each entry with the original source before saving or submitting it",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Accuracy",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q3",
+    "roleId": "data_assistant",
+    "questionNumber": 3,
+    "questionText": "A worker encounters an issue involving data accuracy. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "treat every blank field as zero",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "verify the value against the authorised source document"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Accuracy",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q4",
+    "roleId": "data_assistant",
+    "questionNumber": 4,
+    "questionText": "Why is data accuracy important in this role?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "it reduces errors that can mislead service monitoring and decisions",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Accuracy",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q5",
+    "roleId": "data_assistant",
+    "questionNumber": 5,
+    "questionText": "Which statement about data accuracy is correct?",
+    "options": {
+      "A": "staff must never invent or guess information to fill a blank",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Accuracy",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q6",
+    "roleId": "data_assistant",
+    "questionNumber": 6,
+    "questionText": "What best describes data completeness?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "ensuring all required fields and records are present",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Completeness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q7",
+    "roleId": "data_assistant",
+    "questionNumber": 7,
+    "questionText": "Which action best demonstrates good practice for data completeness?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "check required fields and follow up on missing entries with the responsible staff",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Completeness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q8",
+    "roleId": "data_assistant",
+    "questionNumber": 8,
+    "questionText": "A worker encounters an issue involving data completeness. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "identify which required fields or records are missing",
+      "C": "treat every blank field as zero",
+      "D": "assume that a filtered-out row has been deleted"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Completeness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q9",
+    "roleId": "data_assistant",
+    "questionNumber": 9,
+    "questionText": "Why is data completeness important in this role?",
+    "options": {
+      "A": "incomplete records can make reports unreliable",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Completeness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q10",
+    "roleId": "data_assistant",
+    "questionNumber": 10,
+    "questionText": "Which statement about data completeness is correct?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "a blank required field should be flagged, not silently filled with an assumption",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Completeness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q11",
+    "roleId": "data_assistant",
+    "questionNumber": 11,
+    "questionText": "What best describes data consistency?",
+    "options": {
+      "A": "ensuring the same information agrees across related records and reporting tools",
+      "B": "change source documents without permission",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Consistency",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q12",
+    "roleId": "data_assistant",
+    "questionNumber": 12,
+    "questionText": "Which action best demonstrates good practice for data consistency?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "compare the register, source form and electronic record for conflicting values"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Consistency",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q13",
+    "roleId": "data_assistant",
+    "questionNumber": 13,
+    "questionText": "A worker encounters an issue involving data consistency. What is the most appropriate first response?",
+    "options": {
+      "A": "assume that a filtered-out row has been deleted",
+      "B": "treat every blank field as zero",
+      "C": "change the indicator definition to improve the result",
+      "D": "reconcile the records and flag any difference for authorised review"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Consistency",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q14",
+    "roleId": "data_assistant",
+    "questionNumber": 14,
+    "questionText": "Why is data consistency important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "conflicting values make it difficult to trust programme reports",
+      "C": "change source documents without permission",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Consistency",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q15",
+    "roleId": "data_assistant",
+    "questionNumber": 15,
+    "questionText": "Which statement about data consistency is correct?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "corrections should follow the approved process and preserve an audit trail",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Consistency",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q16",
+    "roleId": "data_assistant",
+    "questionNumber": 16,
+    "questionText": "What best describes data timeliness?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "guess missing values from memory",
+      "C": "change source documents without permission",
+      "D": "entering and submitting information within the required reporting period"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Timeliness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q17",
+    "roleId": "data_assistant",
+    "questionNumber": 17,
+    "questionText": "Which action best demonstrates good practice for data timeliness?",
+    "options": {
+      "A": "enter approved information promptly and meet reporting deadlines",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Timeliness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q18",
+    "roleId": "data_assistant",
+    "questionNumber": 18,
+    "questionText": "A worker encounters an issue involving data timeliness. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "change the indicator definition to improve the result",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "check the reporting deadline and clear pending entries in the approved order"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Timeliness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q19",
+    "roleId": "data_assistant",
+    "questionNumber": 19,
+    "questionText": "Why is data timeliness important in this role?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "late information can delay programme action and reporting",
+      "C": "guess missing values from memory",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Timeliness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q20",
+    "roleId": "data_assistant",
+    "questionNumber": 20,
+    "questionText": "Which statement about data timeliness is correct?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "submit figures before checking the source",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "timely entry must not come at the expense of accuracy"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Timeliness",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q21",
+    "roleId": "data_assistant",
+    "questionNumber": 21,
+    "questionText": "What best describes data validity?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "guess missing values from memory",
+      "C": "share your password with a colleague",
+      "D": "ensuring information follows the accepted definitions, formats and allowable ranges"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Validity",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q22",
+    "roleId": "data_assistant",
+    "questionNumber": 22,
+    "questionText": "Which action best demonstrates good practice for data validity?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "submit figures before checking the source",
+      "C": "use approved definitions, formats and validation rules",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "C",
+    "topic": "Data Validity",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q23",
+    "roleId": "data_assistant",
+    "questionNumber": 23,
+    "questionText": "A worker encounters an issue involving data validity. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "treat every blank field as zero",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "check the entry against the required format and accepted range"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Validity",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q24",
+    "roleId": "data_assistant",
+    "questionNumber": 24,
+    "questionText": "Why is data validity important in this role?",
+    "options": {
+      "A": "invalid values can distort analysis and indicate data-entry problems",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Data Validity",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q25",
+    "roleId": "data_assistant",
+    "questionNumber": 25,
+    "questionText": "Which statement about data validity is correct?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "a valid-looking value still needs to match the source document",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "C",
+    "topic": "Data Validity",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q26",
+    "roleId": "data_assistant",
+    "questionNumber": 26,
+    "questionText": "What best describes source document?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "the original approved record from which data are taken"
+    },
+    "correctAnswer": "D",
+    "topic": "Source Document",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q27",
+    "roleId": "data_assistant",
+    "questionNumber": 27,
+    "questionText": "Which action best demonstrates good practice for source document?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "submit figures before checking the source",
+      "C": "use the authorised register, form or record as the basis for data entry",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "C",
+    "topic": "Source Document",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q28",
+    "roleId": "data_assistant",
+    "questionNumber": 28,
+    "questionText": "A worker encounters an issue involving source document. What is the most appropriate first response?",
+    "options": {
+      "A": "assume that a filtered-out row has been deleted",
+      "B": "return to the original approved record to verify the information",
+      "C": "change the indicator definition to improve the result",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "B",
+    "topic": "Source Document",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q29",
+    "roleId": "data_assistant",
+    "questionNumber": 29,
+    "questionText": "Why is source document important in this role?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "it provides the reference for checking and reconciling entries",
+      "C": "change source documents without permission",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Source Document",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q30",
+    "roleId": "data_assistant",
+    "questionNumber": 30,
+    "questionText": "Which statement about source document is correct?",
+    "options": {
+      "A": "an unverified verbal estimate is not a substitute for a source document",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "A",
+    "topic": "Source Document",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q31",
+    "roleId": "data_assistant",
+    "questionNumber": 31,
+    "questionText": "What best describes record reconciliation?",
+    "options": {
+      "A": "comparing related records and resolving differences through authorised procedures",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Record Reconciliation",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q32",
+    "roleId": "data_assistant",
+    "questionNumber": 32,
+    "questionText": "Which action best demonstrates good practice for record reconciliation?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "submit figures before checking the source",
+      "D": "compare source documents with registers and electronic records"
+    },
+    "correctAnswer": "D",
+    "topic": "Record Reconciliation",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q33",
+    "roleId": "data_assistant",
+    "questionNumber": 33,
+    "questionText": "A worker encounters an issue involving record reconciliation. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "assume that a filtered-out row has been deleted",
+      "C": "treat every blank field as zero",
+      "D": "list the discrepancy and refer it to the responsible staff for validation"
+    },
+    "correctAnswer": "D",
+    "topic": "Record Reconciliation",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q34",
+    "roleId": "data_assistant",
+    "questionNumber": 34,
+    "questionText": "Why is record reconciliation important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "change source documents without permission",
+      "D": "it helps maintain agreement between paper and electronic records"
+    },
+    "correctAnswer": "D",
+    "topic": "Record Reconciliation",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q35",
+    "roleId": "data_assistant",
+    "questionNumber": 35,
+    "questionText": "Which statement about record reconciliation is correct?",
+    "options": {
+      "A": "never alter one record merely to make it match another without verification",
+      "B": "submit figures before checking the source",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Record Reconciliation",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q36",
+    "roleId": "data_assistant",
+    "questionNumber": 36,
+    "questionText": "What best describes unique client identifier?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "an approved identifier used to distinguish one client record from another",
+      "C": "change source documents without permission",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "B",
+    "topic": "Unique Client Identifier",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q37",
+    "roleId": "data_assistant",
+    "questionNumber": 37,
+    "questionText": "Which action best demonstrates good practice for unique client identifier?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "use the authorised identifier and check for an existing record before creating a new one",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "C",
+    "topic": "Unique Client Identifier",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q38",
+    "roleId": "data_assistant",
+    "questionNumber": 38,
+    "questionText": "A worker encounters an issue involving unique client identifier. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "search the approved system for an existing client record",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "change the indicator definition to improve the result"
+    },
+    "correctAnswer": "B",
+    "topic": "Unique Client Identifier",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q39",
+    "roleId": "data_assistant",
+    "questionNumber": 39,
+    "questionText": "Why is unique client identifier important in this role?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "guess missing values from memory",
+      "C": "share your password with a colleague",
+      "D": "it reduces duplicate records and helps link the correct information"
+    },
+    "correctAnswer": "D",
+    "topic": "Unique Client Identifier",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q40",
+    "roleId": "data_assistant",
+    "questionNumber": 40,
+    "questionText": "Which statement about unique client identifier is correct?",
+    "options": {
+      "A": "do not create a new identifier simply because a name is spelled differently",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "A",
+    "topic": "Unique Client Identifier",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q41",
+    "roleId": "data_assistant",
+    "questionNumber": 41,
+    "questionText": "What best describes duplicate record detection?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "identifying two or more records that may refer to the same client or event",
+      "C": "change source documents without permission",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Duplicate Record Detection",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q42",
+    "roleId": "data_assistant",
+    "questionNumber": 42,
+    "questionText": "Which action best demonstrates good practice for duplicate record detection?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "compare approved identifiers and relevant details, then refer possible duplicates for authorised review",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "B",
+    "topic": "Duplicate Record Detection",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q43",
+    "roleId": "data_assistant",
+    "questionNumber": 43,
+    "questionText": "A worker encounters an issue involving duplicate record detection. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "change the indicator definition to improve the result",
+      "C": "flag the possible duplicate without independently deleting records",
+      "D": "assume that a filtered-out row has been deleted"
+    },
+    "correctAnswer": "C",
+    "topic": "Duplicate Record Detection",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q44",
+    "roleId": "data_assistant",
+    "questionNumber": 44,
+    "questionText": "Why is duplicate record detection important in this role?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "duplicates can overstate service counts and fragment client histories",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "B",
+    "topic": "Duplicate Record Detection",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q45",
+    "roleId": "data_assistant",
+    "questionNumber": 45,
+    "questionText": "Which statement about duplicate record detection is correct?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "do not delete a suspected duplicate without authorisation",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "C",
+    "topic": "Duplicate Record Detection",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q46",
+    "roleId": "data_assistant",
+    "questionNumber": 46,
+    "questionText": "What best describes missing data?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "information that should be recorded but is absent",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Missing Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q47",
+    "roleId": "data_assistant",
+    "questionNumber": 47,
+    "questionText": "Which action best demonstrates good practice for missing data?",
+    "options": {
+      "A": "flag the missing field and seek clarification from the responsible source",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Missing Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q48",
+    "roleId": "data_assistant",
+    "questionNumber": 48,
+    "questionText": "A worker encounters an issue involving missing data. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "check the original source and contact the authorised staff member for clarification",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "B",
+    "topic": "Missing Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q49",
+    "roleId": "data_assistant",
+    "questionNumber": 49,
+    "questionText": "Why is missing data important in this role?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "guess missing values from memory",
+      "C": "change source documents without permission",
+      "D": "missing data can affect completeness and interpretation"
+    },
+    "correctAnswer": "D",
+    "topic": "Missing Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q50",
+    "roleId": "data_assistant",
+    "questionNumber": 50,
+    "questionText": "Which statement about missing data is correct?",
+    "options": {
+      "A": "never fill missing information by guessing",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Missing Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q51",
+    "roleId": "data_assistant",
+    "questionNumber": 51,
+    "questionText": "What best describes correction audit trail?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "guess missing values from memory",
+      "C": "share your password with a colleague",
+      "D": "a record of what was changed, when, by whom and why"
+    },
+    "correctAnswer": "D",
+    "topic": "Correction Audit Trail",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q52",
+    "roleId": "data_assistant",
+    "questionNumber": 52,
+    "questionText": "Which action best demonstrates good practice for correction audit trail?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "make corrections only through the approved process and retain the required change history",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "B",
+    "topic": "Correction Audit Trail",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q53",
+    "roleId": "data_assistant",
+    "questionNumber": 53,
+    "questionText": "A worker encounters an issue involving correction audit trail. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "document the correction and preserve the original audit information",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "change the indicator definition to improve the result"
+    },
+    "correctAnswer": "B",
+    "topic": "Correction Audit Trail",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q54",
+    "roleId": "data_assistant",
+    "questionNumber": 54,
+    "questionText": "Why is correction audit trail important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "it supports accountability and traceability",
+      "C": "share your password with a colleague",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "B",
+    "topic": "Correction Audit Trail",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q55",
+    "roleId": "data_assistant",
+    "questionNumber": 55,
+    "questionText": "Which statement about correction audit trail is correct?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "submit figures before checking the source",
+      "C": "do not erase or conceal previous entries to hide a mistake",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "C",
+    "topic": "Correction Audit Trail",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q56",
+    "roleId": "data_assistant",
+    "questionNumber": 56,
+    "questionText": "What best describes confidential health data?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "change source documents without permission",
+      "D": "personal or clinical information that must be protected from unauthorised access or disclosure"
+    },
+    "correctAnswer": "D",
+    "topic": "Confidential Health Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q57",
+    "roleId": "data_assistant",
+    "questionNumber": 57,
+    "questionText": "Which action best demonstrates good practice for confidential health data?",
+    "options": {
+      "A": "access and share information only for authorised work purposes",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Confidential Health Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q58",
+    "roleId": "data_assistant",
+    "questionNumber": 58,
+    "questionText": "A worker encounters an issue involving confidential health data. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "change the indicator definition to improve the result",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "stop the unauthorised disclosure and report it through the approved channel"
+    },
+    "correctAnswer": "D",
+    "topic": "Confidential Health Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q59",
+    "roleId": "data_assistant",
+    "questionNumber": 59,
+    "questionText": "Why is confidential health data important in this role?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "it protects client privacy, trust and rights",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "B",
+    "topic": "Confidential Health Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q60",
+    "roleId": "data_assistant",
+    "questionNumber": 60,
+    "questionText": "Which statement about confidential health data is correct?",
+    "options": {
+      "A": "never share identifiable client data in an open or personal messaging group",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "A",
+    "topic": "Confidential Health Data",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q61",
+    "roleId": "data_assistant",
+    "questionNumber": 61,
+    "questionText": "What best describes role-based access?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "giving users access only to information and functions needed for their assigned duties",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Role-Based Access",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q62",
+    "roleId": "data_assistant",
+    "questionNumber": 62,
+    "questionText": "Which action best demonstrates good practice for role-based access?",
+    "options": {
+      "A": "use your own approved account and only the permissions assigned to your role",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "A",
+    "topic": "Role-Based Access",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q63",
+    "roleId": "data_assistant",
+    "questionNumber": 63,
+    "questionText": "A worker encounters an issue involving role-based access. What is the most appropriate first response?",
+    "options": {
+      "A": "treat every blank field as zero",
+      "B": "request access through the authorised supervisor or system administrator",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "change the indicator definition to improve the result"
+    },
+    "correctAnswer": "B",
+    "topic": "Role-Based Access",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q64",
+    "roleId": "data_assistant",
+    "questionNumber": 64,
+    "questionText": "Why is role-based access important in this role?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "it reduces unnecessary exposure and protects records",
+      "C": "change source documents without permission",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Role-Based Access",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q65",
+    "roleId": "data_assistant",
+    "questionNumber": 65,
+    "questionText": "Which statement about role-based access is correct?",
+    "options": {
+      "A": "do not use a colleague's login to bypass access controls",
+      "B": "submit figures before checking the source",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "A",
+    "topic": "Role-Based Access",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q66",
+    "roleId": "data_assistant",
+    "questionNumber": 66,
+    "questionText": "What best describes password security?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "change source documents without permission",
+      "C": "share your password with a colleague",
+      "D": "protecting account passwords and authentication details from other people"
+    },
+    "correctAnswer": "D",
+    "topic": "Password Security",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q67",
+    "roleId": "data_assistant",
+    "questionNumber": 67,
+    "questionText": "Which action best demonstrates good practice for password security?",
+    "options": {
+      "A": "use a strong unique password and keep it private",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "A",
+    "topic": "Password Security",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q68",
+    "roleId": "data_assistant",
+    "questionNumber": 68,
+    "questionText": "A worker encounters an issue involving password security. What is the most appropriate first response?",
+    "options": {
+      "A": "secure the account and report suspected compromise immediately",
+      "B": "assume that a filtered-out row has been deleted",
+      "C": "change the indicator definition to improve the result",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "A",
+    "topic": "Password Security",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q69",
+    "roleId": "data_assistant",
+    "questionNumber": 69,
+    "questionText": "Why is password security important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "it reduces unauthorised access to sensitive records",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "C",
+    "topic": "Password Security",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q70",
+    "roleId": "data_assistant",
+    "questionNumber": 70,
+    "questionText": "Which statement about password security is correct?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "never disclose a password or one-time code to another person",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "B",
+    "topic": "Password Security",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q71",
+    "roleId": "data_assistant",
+    "questionNumber": 71,
+    "questionText": "What best describes spreadsheet cell?",
+    "options": {
+      "A": "share your password with a colleague",
+      "B": "guess missing values from memory",
+      "C": "the intersection of a row and a column in a worksheet",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "C",
+    "topic": "Spreadsheet Cell",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q72",
+    "roleId": "data_assistant",
+    "questionNumber": 72,
+    "questionText": "Which action best demonstrates good practice for spreadsheet cell?",
+    "options": {
+      "A": "enter one appropriately structured value in the correct cell",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "A",
+    "topic": "Spreadsheet Cell",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q73",
+    "roleId": "data_assistant",
+    "questionNumber": 73,
+    "questionText": "A worker encounters an issue involving spreadsheet cell. What is the most appropriate first response?",
+    "options": {
+      "A": "assume that a filtered-out row has been deleted",
+      "B": "change the indicator definition to improve the result",
+      "C": "treat every blank field as zero",
+      "D": "check the column heading and row before entering the value"
+    },
+    "correctAnswer": "D",
+    "topic": "Spreadsheet Cell",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q74",
+    "roleId": "data_assistant",
+    "questionNumber": 74,
+    "questionText": "Why is spreadsheet cell important in this role?",
+    "options": {
+      "A": "it helps organise data in a consistent structure",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Spreadsheet Cell",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q75",
+    "roleId": "data_assistant",
+    "questionNumber": 75,
+    "questionText": "Which statement about spreadsheet cell is correct?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "create a duplicate record whenever a name differs",
+      "C": "submit figures before checking the source",
+      "D": "a cell is not the same thing as an entire workbook"
+    },
+    "correctAnswer": "D",
+    "topic": "Spreadsheet Cell",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q76",
+    "roleId": "data_assistant",
+    "questionNumber": 76,
+    "questionText": "What best describes spreadsheet formula?",
+    "options": {
+      "A": "change source documents without permission",
+      "B": "an instruction that calculates a value from cell contents",
+      "C": "share your password with a colleague",
+      "D": "guess missing values from memory"
+    },
+    "correctAnswer": "B",
+    "topic": "Spreadsheet Formula",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q77",
+    "roleId": "data_assistant",
+    "questionNumber": 77,
+    "questionText": "Which action best demonstrates good practice for spreadsheet formula?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "submit figures before checking the source",
+      "C": "use the approved formula and verify its range and result",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "C",
+    "topic": "Spreadsheet Formula",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q78",
+    "roleId": "data_assistant",
+    "questionNumber": 78,
+    "questionText": "A worker encounters an issue involving spreadsheet formula. What is the most appropriate first response?",
+    "options": {
+      "A": "assume that a filtered-out row has been deleted",
+      "B": "change the indicator definition to improve the result",
+      "C": "treat every blank field as zero",
+      "D": "check the formula, cell references and selected range"
+    },
+    "correctAnswer": "D",
+    "topic": "Spreadsheet Formula",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q79",
+    "roleId": "data_assistant",
+    "questionNumber": 79,
+    "questionText": "Why is spreadsheet formula important in this role?",
+    "options": {
+      "A": "it supports repeatable calculations and reduces manual arithmetic",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Spreadsheet Formula",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q80",
+    "roleId": "data_assistant",
+    "questionNumber": 80,
+    "questionText": "Which statement about spreadsheet formula is correct?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "do not overwrite formula cells with guessed totals",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "B",
+    "topic": "Spreadsheet Formula",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q81",
+    "roleId": "data_assistant",
+    "questionNumber": 81,
+    "questionText": "What best describes sorting and filtering?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "change source documents without permission",
+      "C": "share your password with a colleague",
+      "D": "organising records or displaying only records that meet selected conditions"
+    },
+    "correctAnswer": "D",
+    "topic": "Sorting And Filtering",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q82",
+    "roleId": "data_assistant",
+    "questionNumber": 82,
+    "questionText": "Which action best demonstrates good practice for sorting and filtering?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "submit figures before checking the source",
+      "D": "use sorting or filters for analysis without changing the underlying source values"
+    },
+    "correctAnswer": "D",
+    "topic": "Sorting And Filtering",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q83",
+    "roleId": "data_assistant",
+    "questionNumber": 83,
+    "questionText": "A worker encounters an issue involving sorting and filtering. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "assume that a filtered-out row has been deleted",
+      "C": "confirm the selected column and filter criteria before applying them",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "C",
+    "topic": "Sorting And Filtering",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q84",
+    "roleId": "data_assistant",
+    "questionNumber": 84,
+    "questionText": "Why is sorting and filtering important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "change source documents without permission",
+      "D": "it helps review large datasets efficiently"
+    },
+    "correctAnswer": "D",
+    "topic": "Sorting And Filtering",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q85",
+    "roleId": "data_assistant",
+    "questionNumber": 85,
+    "questionText": "Which statement about sorting and filtering is correct?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "a filtered view does not mean excluded records have been deleted",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "C",
+    "topic": "Sorting And Filtering",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q86",
+    "roleId": "data_assistant",
+    "questionNumber": 86,
+    "questionText": "What best describes routine data report?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "change source documents without permission",
+      "C": "share your password with a colleague",
+      "D": "a structured summary of programme information submitted at an agreed interval"
+    },
+    "correctAnswer": "D",
+    "topic": "Routine Data Report",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q87",
+    "roleId": "data_assistant",
+    "questionNumber": 87,
+    "questionText": "Which action best demonstrates good practice for routine data report?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "ignore an error if the report total looks reasonable",
+      "C": "prepare the report from verified records using the approved definitions and template",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "C",
+    "topic": "Routine Data Report",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q88",
+    "roleId": "data_assistant",
+    "questionNumber": 88,
+    "questionText": "A worker encounters an issue involving routine data report. What is the most appropriate first response?",
+    "options": {
+      "A": "check the reporting period, source and required indicators",
+      "B": "change the indicator definition to improve the result",
+      "C": "treat every blank field as zero",
+      "D": "assume that a filtered-out row has been deleted"
+    },
+    "correctAnswer": "A",
+    "topic": "Routine Data Report",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q89",
+    "roleId": "data_assistant",
+    "questionNumber": 89,
+    "questionText": "Why is routine data report important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "it supports monitoring, planning and accountability",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "C",
+    "topic": "Routine Data Report",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q90",
+    "roleId": "data_assistant",
+    "questionNumber": 90,
+    "questionText": "Which statement about routine data report is correct?",
+    "options": {
+      "A": "submit figures before checking the source",
+      "B": "do not submit unverified numbers simply to meet a deadline",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "B",
+    "topic": "Routine Data Report",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q91",
+    "roleId": "data_assistant",
+    "questionNumber": 91,
+    "questionText": "What best describes indicator?",
+    "options": {
+      "A": "a defined measure used to track an aspect of programme performance",
+      "B": "change source documents without permission",
+      "C": "guess missing values from memory",
+      "D": "share your password with a colleague"
+    },
+    "correctAnswer": "A",
+    "topic": "Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q92",
+    "roleId": "data_assistant",
+    "questionNumber": 92,
+    "questionText": "Which action best demonstrates good practice for indicator?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "use the approved indicator definition, numerator, denominator and reporting period",
+      "C": "create a duplicate record whenever a name differs",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "B",
+    "topic": "Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q93",
+    "roleId": "data_assistant",
+    "questionNumber": 93,
+    "questionText": "A worker encounters an issue involving indicator. What is the most appropriate first response?",
+    "options": {
+      "A": "change the indicator definition to improve the result",
+      "B": "check the indicator reference and calculation rules before compiling figures",
+      "C": "assume that a filtered-out row has been deleted",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "B",
+    "topic": "Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q94",
+    "roleId": "data_assistant",
+    "questionNumber": 94,
+    "questionText": "Why is indicator important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "it makes performance measurement consistent over time and between facilities",
+      "C": "share your password with a colleague",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "B",
+    "topic": "Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q95",
+    "roleId": "data_assistant",
+    "questionNumber": 95,
+    "questionText": "Which statement about indicator is correct?",
+    "options": {
+      "A": "ignore an error if the report total looks reasonable",
+      "B": "two people should not calculate the same indicator using different definitions",
+      "C": "submit figures before checking the source",
+      "D": "create a duplicate record whenever a name differs"
+    },
+    "correctAnswer": "B",
+    "topic": "Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q96",
+    "roleId": "data_assistant",
+    "questionNumber": 96,
+    "questionText": "What best describes data backup?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "an authorised copy of information kept so it can be recovered if the main copy is lost or damaged",
+      "C": "share your password with a colleague",
+      "D": "change source documents without permission"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Backup",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q97",
+    "roleId": "data_assistant",
+    "questionNumber": 97,
+    "questionText": "Which action best demonstrates good practice for data backup?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "follow the approved backup and recovery procedure",
+      "C": "submit figures before checking the source",
+      "D": "ignore an error if the report total looks reasonable"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Backup",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q98",
+    "roleId": "data_assistant",
+    "questionNumber": 98,
+    "questionText": "A worker encounters an issue involving data backup. What is the most appropriate first response?",
+    "options": {
+      "A": "assume that a filtered-out row has been deleted",
+      "B": "change the indicator definition to improve the result",
+      "C": "notify the supervisor or IT support and use the approved recovery process",
+      "D": "treat every blank field as zero"
+    },
+    "correctAnswer": "C",
+    "topic": "Data Backup",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q99",
+    "roleId": "data_assistant",
+    "questionNumber": 99,
+    "questionText": "Why is data backup important in this role?",
+    "options": {
+      "A": "guess missing values from memory",
+      "B": "share your password with a colleague",
+      "C": "change source documents without permission",
+      "D": "it reduces the risk of permanent data loss"
+    },
+    "correctAnswer": "D",
+    "topic": "Data Backup",
+    "source": "500_bank"
+  },
+  {
+    "id": "data_assistant_q100",
+    "roleId": "data_assistant",
+    "questionNumber": 100,
+    "questionText": "Which statement about data backup is correct?",
+    "options": {
+      "A": "create a duplicate record whenever a name differs",
+      "B": "do not copy confidential records to an unapproved personal device",
+      "C": "ignore an error if the report total looks reasonable",
+      "D": "submit figures before checking the source"
+    },
+    "correctAnswer": "B",
+    "topic": "Data Backup",
+    "source": "500_bank"
+  }
+]

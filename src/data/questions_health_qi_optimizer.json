@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "health_qi_optimizer_q1",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 1,
+    "questionText": "What best describes integrated service delivery?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "blame one staff member before checking the system",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "coordinating related services so clients can access appropriate care without avoidable fragmentation"
+    },
+    "correctAnswer": "D",
+    "topic": "Integrated Service Delivery",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q2",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 2,
+    "questionText": "Which action best demonstrates good practice for integrated service delivery?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assign actions without owners or deadlines",
+      "C": "map and improve linkages between HIV, TB, malaria and MNCH service points",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "C",
+    "topic": "Integrated Service Delivery",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q3",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 3,
+    "questionText": "A worker encounters an issue involving integrated service delivery. What is the most appropriate first response?",
+    "options": {
+      "A": "use inconsistent definitions between facilities",
+      "B": "review the client's pathway and identify where service coordination is failing",
+      "C": "hide poor performance data",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "B",
+    "topic": "Integrated Service Delivery",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q4",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 4,
+    "questionText": "Why is integrated service delivery important in this role?",
+    "options": {
+      "A": "it improves access, continuity and client experience",
+      "B": "change every service process at once without testing",
+      "C": "blame one staff member before checking the system",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "A",
+    "topic": "Integrated Service Delivery",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q5",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 5,
+    "questionText": "Which statement about integrated service delivery is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "integration does not mean that every service must be delivered by one person",
+      "C": "assign actions without owners or deadlines",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "B",
+    "topic": "Integrated Service Delivery",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q6",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 6,
+    "questionText": "What best describes continuous quality improvement?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "a structured, ongoing effort to improve processes and outcomes using data and team learning",
+      "C": "blame one staff member before checking the system",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "B",
+    "topic": "Continuous Quality Improvement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q7",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 7,
+    "questionText": "Which action best demonstrates good practice for continuous quality improvement?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "hold meetings without documenting actions",
+      "C": "select a priority gap, test a change, measure results and adapt the approach",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "C",
+    "topic": "Continuous Quality Improvement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q8",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 8,
+    "questionText": "A worker encounters an issue involving continuous quality improvement. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "define the problem and establish a baseline before choosing a change",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "C",
+    "topic": "Continuous Quality Improvement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q9",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 9,
+    "questionText": "Why is continuous quality improvement important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "blame one staff member before checking the system",
+      "C": "change every service process at once without testing",
+      "D": "it helps teams make measurable and sustained improvements"
+    },
+    "correctAnswer": "D",
+    "topic": "Continuous Quality Improvement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q10",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 10,
+    "questionText": "Which statement about continuous quality improvement is correct?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "QI is not a one-time inspection or a search for someone to blame",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "hold meetings without documenting actions"
+    },
+    "correctAnswer": "B",
+    "topic": "Continuous Quality Improvement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q11",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 11,
+    "questionText": "What best describes PDSA cycle?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "Plan-Do-Study-Act, a method for testing and learning from a change",
+      "C": "blame one staff member before checking the system",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Pdsa Cycle",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q12",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 12,
+    "questionText": "Which action best demonstrates good practice for PDSA cycle?",
+    "options": {
+      "A": "plan a small test, try it, study the results and act on the learning",
+      "B": "hold meetings without documenting actions",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Pdsa Cycle",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q13",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 13,
+    "questionText": "A worker encounters an issue involving PDSA cycle. What is the most appropriate first response?",
+    "options": {
+      "A": "skip staff involvement in workflow mapping",
+      "B": "state what will be tested, where, by whom and how results will be measured",
+      "C": "hide poor performance data",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "B",
+    "topic": "Pdsa Cycle",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q14",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 14,
+    "questionText": "Why is PDSA cycle important in this role?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "it allows teams to test changes on a manageable scale",
+      "C": "blame one staff member before checking the system",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "B",
+    "topic": "Pdsa Cycle",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q15",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 15,
+    "questionText": "Which statement about PDSA cycle is correct?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "hold meetings without documenting actions",
+      "D": "do not roll out a major change everywhere before learning from a test"
+    },
+    "correctAnswer": "D",
+    "topic": "Pdsa Cycle",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q16",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 16,
+    "questionText": "What best describes aim statement?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "blame one staff member before checking the system",
+      "C": "change every service process at once without testing",
+      "D": "a clear statement of what improvement is intended, for whom, by how much and by when"
+    },
+    "correctAnswer": "D",
+    "topic": "Aim Statement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q17",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 17,
+    "questionText": "Which action best demonstrates good practice for aim statement?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "write a specific measurable aim with a defined population and timeframe",
+      "C": "hold meetings without documenting actions",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "B",
+    "topic": "Aim Statement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q18",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 18,
+    "questionText": "A worker encounters an issue involving aim statement. What is the most appropriate first response?",
+    "options": {
+      "A": "agree on the problem, target, population and deadline",
+      "B": "hide poor performance data",
+      "C": "skip staff involvement in workflow mapping",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "A",
+    "topic": "Aim Statement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q19",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 19,
+    "questionText": "Why is aim statement important in this role?",
+    "options": {
+      "A": "it gives the team a shared direction",
+      "B": "blame one staff member before checking the system",
+      "C": "change every service process at once without testing",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "A",
+    "topic": "Aim Statement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q20",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 20,
+    "questionText": "Which statement about aim statement is correct?",
+    "options": {
+      "A": "a vague aim such as 'improve everything' is not measurable",
+      "B": "hold meetings without documenting actions",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Aim Statement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q21",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 21,
+    "questionText": "What best describes baseline measurement?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "the starting measurement used to understand current performance before a change",
+      "C": "blame one staff member before checking the system",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "B",
+    "topic": "Baseline Measurement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q22",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 22,
+    "questionText": "Which action best demonstrates good practice for baseline measurement?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "collect and validate current data before implementing the improvement",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "hold meetings without documenting actions"
+    },
+    "correctAnswer": "B",
+    "topic": "Baseline Measurement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q23",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 23,
+    "questionText": "A worker encounters an issue involving baseline measurement. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "identify the indicator and measure the current state",
+      "C": "skip staff involvement in workflow mapping",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "B",
+    "topic": "Baseline Measurement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q24",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 24,
+    "questionText": "Why is baseline measurement important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "change every service process at once without testing",
+      "C": "blame one staff member before checking the system",
+      "D": "it allows the team to assess whether performance changes"
+    },
+    "correctAnswer": "D",
+    "topic": "Baseline Measurement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q25",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 25,
+    "questionText": "Which statement about baseline measurement is correct?",
+    "options": {
+      "A": "without a baseline, it is difficult to judge improvement",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "hold meetings without documenting actions",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Baseline Measurement",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q26",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 26,
+    "questionText": "What best describes process indicator?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "a measure of whether a key activity or step in a service process is being completed",
+      "C": "blame one staff member before checking the system",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Process Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q27",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 27,
+    "questionText": "Which action best demonstrates good practice for process indicator?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "assign actions without owners or deadlines",
+      "D": "monitor the relevant service step using an agreed numerator and denominator"
+    },
+    "correctAnswer": "D",
+    "topic": "Process Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q28",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 28,
+    "questionText": "A worker encounters an issue involving process indicator. What is the most appropriate first response?",
+    "options": {
+      "A": "identify the activity that should be measured",
+      "B": "hide poor performance data",
+      "C": "use inconsistent definitions between facilities",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "A",
+    "topic": "Process Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q29",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 29,
+    "questionText": "Why is process indicator important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "it shows whether the process is being carried out as intended",
+      "C": "blame one staff member before checking the system",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Process Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q30",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 30,
+    "questionText": "Which statement about process indicator is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assign actions without owners or deadlines",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "a process indicator is not automatically a patient outcome"
+    },
+    "correctAnswer": "D",
+    "topic": "Process Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q31",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 31,
+    "questionText": "What best describes outcome indicator?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "a measure of the result or effect of a service or intervention",
+      "D": "blame one staff member before checking the system"
+    },
+    "correctAnswer": "C",
+    "topic": "Outcome Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q32",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 32,
+    "questionText": "Which action best demonstrates good practice for outcome indicator?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "track a defined client or health outcome over the agreed period",
+      "C": "assign actions without owners or deadlines",
+      "D": "hold meetings without documenting actions"
+    },
+    "correctAnswer": "B",
+    "topic": "Outcome Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q33",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 33,
+    "questionText": "A worker encounters an issue involving outcome indicator. What is the most appropriate first response?",
+    "options": {
+      "A": "select an outcome that reflects the intended benefit",
+      "B": "hide poor performance data",
+      "C": "use inconsistent definitions between facilities",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "A",
+    "topic": "Outcome Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q34",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 34,
+    "questionText": "Why is outcome indicator important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "change every service process at once without testing",
+      "D": "it shows whether the service is achieving its intended result"
+    },
+    "correctAnswer": "D",
+    "topic": "Outcome Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q35",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 35,
+    "questionText": "Which statement about outcome indicator is correct?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "assign actions without owners or deadlines",
+      "C": "counting training sessions alone does not prove improved health outcomes",
+      "D": "hold meetings without documenting actions"
+    },
+    "correctAnswer": "C",
+    "topic": "Outcome Indicator",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q36",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 36,
+    "questionText": "What best describes balancing measure?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "blame one staff member before checking the system",
+      "D": "a measure used to check whether an improvement creates an unintended negative effect elsewhere"
+    },
+    "correctAnswer": "D",
+    "topic": "Balancing Measure",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q37",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 37,
+    "questionText": "Which action best demonstrates good practice for balancing measure?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "monitor possible side effects of the change as well as the main target",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "B",
+    "topic": "Balancing Measure",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q38",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 38,
+    "questionText": "A worker encounters an issue involving balancing measure. What is the most appropriate first response?",
+    "options": {
+      "A": "identify what could worsen while the team improves the target process",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "use inconsistent definitions between facilities",
+      "D": "hide poor performance data"
+    },
+    "correctAnswer": "A",
+    "topic": "Balancing Measure",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q39",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 39,
+    "questionText": "Why is balancing measure important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "change every service process at once without testing",
+      "C": "it helps prevent improvement in one area from harming another",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "C",
+    "topic": "Balancing Measure",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q40",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 40,
+    "questionText": "Which statement about balancing measure is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "do not assume a change is successful by looking at only one measure",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "C",
+    "topic": "Balancing Measure",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q41",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 41,
+    "questionText": "What best describes root-cause analysis?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "a structured review to identify underlying factors contributing to a problem",
+      "C": "change every service process at once without testing",
+      "D": "blame one staff member before checking the system"
+    },
+    "correctAnswer": "B",
+    "topic": "Root-Cause Analysis",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q42",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 42,
+    "questionText": "Which action best demonstrates good practice for root-cause analysis?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "use evidence and team input to identify process and system causes",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "B",
+    "topic": "Root-Cause Analysis",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q43",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 43,
+    "questionText": "A worker encounters an issue involving root-cause analysis. What is the most appropriate first response?",
+    "options": {
+      "A": "use inconsistent definitions between facilities",
+      "B": "hide poor performance data",
+      "C": "describe the problem clearly and gather relevant facts before deciding the cause",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "C",
+    "topic": "Root-Cause Analysis",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q44",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 44,
+    "questionText": "Why is root-cause analysis important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "change every service process at once without testing",
+      "D": "it helps teams select changes that address causes rather than symptoms"
+    },
+    "correctAnswer": "D",
+    "topic": "Root-Cause Analysis",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q45",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 45,
+    "questionText": "Which statement about root-cause analysis is correct?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "assign actions without owners or deadlines",
+      "C": "hold meetings without documenting actions",
+      "D": "do not start by blaming an individual without examining the process"
+    },
+    "correctAnswer": "D",
+    "topic": "Root-Cause Analysis",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q46",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 46,
+    "questionText": "What best describes fishbone diagram?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "change every service process at once without testing",
+      "D": "a cause-and-effect tool used to organise possible causes of a problem"
+    },
+    "correctAnswer": "D",
+    "topic": "Fishbone Diagram",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q47",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 47,
+    "questionText": "Which action best demonstrates good practice for fishbone diagram?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assign actions without owners or deadlines",
+      "C": "group possible causes under relevant categories and investigate them with evidence",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "C",
+    "topic": "Fishbone Diagram",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q48",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 48,
+    "questionText": "A worker encounters an issue involving fishbone diagram. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "define the problem clearly and invite the team to identify possible contributing factors",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "C",
+    "topic": "Fishbone Diagram",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q49",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 49,
+    "questionText": "Why is fishbone diagram important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "blame one staff member before checking the system",
+      "C": "change every service process at once without testing",
+      "D": "it supports systematic exploration of contributing factors"
+    },
+    "correctAnswer": "D",
+    "topic": "Fishbone Diagram",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q50",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 50,
+    "questionText": "Which statement about fishbone diagram is correct?",
+    "options": {
+      "A": "a fishbone diagram identifies possibilities; it does not prove every listed cause",
+      "B": "hold meetings without documenting actions",
+      "C": "assign actions without owners or deadlines",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "A",
+    "topic": "Fishbone Diagram",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q51",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 51,
+    "questionText": "What best describes five whys?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "blame one staff member before checking the system",
+      "C": "a simple questioning technique that explores successive contributing causes",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "C",
+    "topic": "Five Whys",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q52",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 52,
+    "questionText": "Which action best demonstrates good practice for five whys?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assign actions without owners or deadlines",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "ask why repeatedly with evidence until a useful underlying process cause is identified"
+    },
+    "correctAnswer": "D",
+    "topic": "Five Whys",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q53",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 53,
+    "questionText": "A worker encounters an issue involving five whys. What is the most appropriate first response?",
+    "options": {
+      "A": "skip staff involvement in workflow mapping",
+      "B": "use inconsistent definitions between facilities",
+      "C": "hide poor performance data",
+      "D": "start with a clearly described problem and ask why it occurred"
+    },
+    "correctAnswer": "D",
+    "topic": "Five Whys",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q54",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 54,
+    "questionText": "Why is five whys important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "it can help move beyond surface symptoms",
+      "C": "change every service process at once without testing",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "B",
+    "topic": "Five Whys",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q55",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 55,
+    "questionText": "Which statement about five whys is correct?",
+    "options": {
+      "A": "do not use it to assign blame or assume every problem has only one cause",
+      "B": "hold meetings without documenting actions",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Five Whys",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q56",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 56,
+    "questionText": "What best describes client feedback?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "information from service users about their experience, needs and barriers",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Client Feedback",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q57",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 57,
+    "questionText": "Which action best demonstrates good practice for client feedback?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assign actions without owners or deadlines",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "collect and review feedback respectfully and use it in improvement planning"
+    },
+    "correctAnswer": "D",
+    "topic": "Client Feedback",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q58",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 58,
+    "questionText": "A worker encounters an issue involving client feedback. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "listen to clients and identify recurring themes or concerns",
+      "C": "use inconsistent definitions between facilities",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "B",
+    "topic": "Client Feedback",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q59",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 59,
+    "questionText": "Why is client feedback important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "change every service process at once without testing",
+      "C": "it helps teams improve services around actual client needs",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "C",
+    "topic": "Client Feedback",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q60",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 60,
+    "questionText": "Which statement about client feedback is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "assign actions without owners or deadlines",
+      "D": "feedback should not be ignored or shared in a way that identifies clients without authority"
+    },
+    "correctAnswer": "D",
+    "topic": "Client Feedback",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q61",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 61,
+    "questionText": "What best describes workflow mapping?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "visually describing the steps and handoffs in a service process",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Workflow Mapping",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q62",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 62,
+    "questionText": "Which action best demonstrates good practice for workflow mapping?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "hold meetings without documenting actions",
+      "C": "map the actual current process with staff who perform the work",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "C",
+    "topic": "Workflow Mapping",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q63",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 63,
+    "questionText": "A worker encounters an issue involving workflow mapping. What is the most appropriate first response?",
+    "options": {
+      "A": "observe and document the steps from the client's perspective",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "use inconsistent definitions between facilities",
+      "D": "hide poor performance data"
+    },
+    "correctAnswer": "A",
+    "topic": "Workflow Mapping",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q64",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 64,
+    "questionText": "Why is workflow mapping important in this role?",
+    "options": {
+      "A": "it helps identify duplication, delays and missed handoffs",
+      "B": "blame one staff member before checking the system",
+      "C": "change every service process at once without testing",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "A",
+    "topic": "Workflow Mapping",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q65",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 65,
+    "questionText": "Which statement about workflow mapping is correct?",
+    "options": {
+      "A": "do not map an imagined process without checking what actually happens",
+      "B": "hold meetings without documenting actions",
+      "C": "assign actions without owners or deadlines",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "A",
+    "topic": "Workflow Mapping",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q66",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 66,
+    "questionText": "What best describes service bottleneck?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "a point in a process that restricts flow and causes delay or backlog",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Service Bottleneck",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q67",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 67,
+    "questionText": "Which action best demonstrates good practice for service bottleneck?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "use process data to locate the step where work accumulates",
+      "C": "hold meetings without documenting actions",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "B",
+    "topic": "Service Bottleneck",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q68",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 68,
+    "questionText": "A worker encounters an issue involving service bottleneck. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "compare waiting times and volumes across service steps",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "C",
+    "topic": "Service Bottleneck",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q69",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 69,
+    "questionText": "Why is service bottleneck important in this role?",
+    "options": {
+      "A": "it helps teams target changes where they may have the greatest effect",
+      "B": "blame one staff member before checking the system",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Service Bottleneck",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q70",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 70,
+    "questionText": "Which statement about service bottleneck is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "do not assume the most visible problem is always the main bottleneck",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "B",
+    "topic": "Service Bottleneck",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q71",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 71,
+    "questionText": "What best describes on-the-job mentorship?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "supporting staff to strengthen skills through guidance and feedback during work",
+      "C": "change every service process at once without testing",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "B",
+    "topic": "On-The-Job Mentorship",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q72",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 72,
+    "questionText": "Which action best demonstrates good practice for on-the-job mentorship?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "hold meetings without documenting actions",
+      "D": "demonstrate approved practices, observe performance and provide constructive feedback"
+    },
+    "correctAnswer": "D",
+    "topic": "On-The-Job Mentorship",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q73",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 73,
+    "questionText": "A worker encounters an issue involving on-the-job mentorship. What is the most appropriate first response?",
+    "options": {
+      "A": "skip staff involvement in workflow mapping",
+      "B": "hide poor performance data",
+      "C": "use inconsistent definitions between facilities",
+      "D": "agree on the skill to strengthen and the staff member's learning needs"
+    },
+    "correctAnswer": "D",
+    "topic": "On-The-Job Mentorship",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q74",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 74,
+    "questionText": "Why is on-the-job mentorship important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "it supports sustainable capacity and better service quality",
+      "C": "change every service process at once without testing",
+      "D": "blame one staff member before checking the system"
+    },
+    "correctAnswer": "B",
+    "topic": "On-The-Job Mentorship",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q75",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 75,
+    "questionText": "Which statement about on-the-job mentorship is correct?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "mentorship is not public criticism or punishment",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "C",
+    "topic": "On-The-Job Mentorship",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q76",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 76,
+    "questionText": "What best describes quality improvement team meeting?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "blame one staff member before checking the system",
+      "C": "a structured meeting where relevant staff review data, barriers and improvement actions",
+      "D": "choose an indicator without defining its numerator or denominator"
+    },
+    "correctAnswer": "C",
+    "topic": "Quality Improvement Team Meeting",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q77",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 77,
+    "questionText": "Which action best demonstrates good practice for quality improvement team meeting?",
+    "options": {
+      "A": "use an agenda, review measures, assign actions and record decisions",
+      "B": "assign actions without owners or deadlines",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "hold meetings without documenting actions"
+    },
+    "correctAnswer": "A",
+    "topic": "Quality Improvement Team Meeting",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q78",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 78,
+    "questionText": "A worker encounters an issue involving quality improvement team meeting. What is the most appropriate first response?",
+    "options": {
+      "A": "skip staff involvement in workflow mapping",
+      "B": "hide poor performance data",
+      "C": "bring the current data and agreed problem statement to the meeting",
+      "D": "use inconsistent definitions between facilities"
+    },
+    "correctAnswer": "C",
+    "topic": "Quality Improvement Team Meeting",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q79",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 79,
+    "questionText": "Why is quality improvement team meeting important in this role?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "blame one staff member before checking the system",
+      "D": "it supports shared ownership and follow-through"
+    },
+    "correctAnswer": "D",
+    "topic": "Quality Improvement Team Meeting",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q80",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 80,
+    "questionText": "Which statement about quality improvement team meeting is correct?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "a meeting without decisions or action tracking is unlikely to sustain improvement",
+      "C": "hold meetings without documenting actions",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "B",
+    "topic": "Quality Improvement Team Meeting",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q81",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 81,
+    "questionText": "What best describes improvement action plan?",
+    "options": {
+      "A": "a written plan stating actions, owners, deadlines and measures",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "blame one staff member before checking the system",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Improvement Action Plan",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q82",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 82,
+    "questionText": "Which action best demonstrates good practice for improvement action plan?",
+    "options": {
+      "A": "assign a responsible person, due date and indicator to each agreed action",
+      "B": "assign actions without owners or deadlines",
+      "C": "hold meetings without documenting actions",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "A",
+    "topic": "Improvement Action Plan",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q83",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 83,
+    "questionText": "A worker encounters an issue involving improvement action plan. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "use inconsistent definitions between facilities",
+      "C": "convert the selected change into specific tasks and responsibilities",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "C",
+    "topic": "Improvement Action Plan",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q84",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 84,
+    "questionText": "Why is improvement action plan important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "it makes improvement work trackable and accountable",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Improvement Action Plan",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q85",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 85,
+    "questionText": "Which statement about improvement action plan is correct?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "do not leave actions without an owner or deadline",
+      "C": "hold meetings without documenting actions",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "B",
+    "topic": "Improvement Action Plan",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q86",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 86,
+    "questionText": "What best describes change idea testing?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "choose an indicator without defining its numerator or denominator",
+      "C": "change every service process at once without testing",
+      "D": "trying a proposed process change on a limited scale and measuring what happens"
+    },
+    "correctAnswer": "D",
+    "topic": "Change Idea Testing",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q87",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 87,
+    "questionText": "Which action best demonstrates good practice for change idea testing?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "test the idea on a small scale before wider implementation",
+      "C": "hold meetings without documenting actions",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "B",
+    "topic": "Change Idea Testing",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q88",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 88,
+    "questionText": "A worker encounters an issue involving change idea testing. What is the most appropriate first response?",
+    "options": {
+      "A": "hide poor performance data",
+      "B": "skip staff involvement in workflow mapping",
+      "C": "use inconsistent definitions between facilities",
+      "D": "define the test, prediction and measures before starting"
+    },
+    "correctAnswer": "D",
+    "topic": "Change Idea Testing",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q89",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 89,
+    "questionText": "Why is change idea testing important in this role?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "it reduces risk and creates learning before expansion",
+      "C": "blame one staff member before checking the system",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "B",
+    "topic": "Change Idea Testing",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q90",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 90,
+    "questionText": "Which statement about change idea testing is correct?",
+    "options": {
+      "A": "do not assume a promising idea will work in every facility without testing",
+      "B": "hold meetings without documenting actions",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Change Idea Testing",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q91",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 91,
+    "questionText": "What best describes run chart?",
+    "options": {
+      "A": "choose an indicator without defining its numerator or denominator",
+      "B": "blame one staff member before checking the system",
+      "C": "a graph showing data points over time to help identify patterns and shifts",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Run Chart",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q92",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 92,
+    "questionText": "Which action best demonstrates good practice for run chart?",
+    "options": {
+      "A": "hold meetings without documenting actions",
+      "B": "assume a cause is proven because it appears on a diagram",
+      "C": "assign actions without owners or deadlines",
+      "D": "plot the indicator in time order using consistent definitions"
+    },
+    "correctAnswer": "D",
+    "topic": "Run Chart",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q93",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 93,
+    "questionText": "A worker encounters an issue involving run chart. What is the most appropriate first response?",
+    "options": {
+      "A": "use inconsistent definitions between facilities",
+      "B": "prepare the data by reporting period and check that the measure is consistent",
+      "C": "hide poor performance data",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "B",
+    "topic": "Run Chart",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q94",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 94,
+    "questionText": "Why is run chart important in this role?",
+    "options": {
+      "A": "change every service process at once without testing",
+      "B": "blame one staff member before checking the system",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "it helps teams see whether changes are associated with improvement"
+    },
+    "correctAnswer": "D",
+    "topic": "Run Chart",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q95",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 95,
+    "questionText": "Which statement about run chart is correct?",
+    "options": {
+      "A": "assume a cause is proven because it appears on a diagram",
+      "B": "assign actions without owners or deadlines",
+      "C": "hold meetings without documenting actions",
+      "D": "a run chart should not mix incompatible definitions or reporting periods"
+    },
+    "correctAnswer": "D",
+    "topic": "Run Chart",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q96",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 96,
+    "questionText": "What best describes spread of effective practice?",
+    "options": {
+      "A": "sharing a tested and useful improvement with other teams in a planned way",
+      "B": "blame one staff member before checking the system",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "change every service process at once without testing"
+    },
+    "correctAnswer": "A",
+    "topic": "Spread Of Effective Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q97",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 97,
+    "questionText": "Which action best demonstrates good practice for spread of effective practice?",
+    "options": {
+      "A": "document what worked, the context and requirements before supporting wider adoption",
+      "B": "hold meetings without documenting actions",
+      "C": "assume a cause is proven because it appears on a diagram",
+      "D": "assign actions without owners or deadlines"
+    },
+    "correctAnswer": "A",
+    "topic": "Spread Of Effective Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q98",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 98,
+    "questionText": "A worker encounters an issue involving spread of effective practice. What is the most appropriate first response?",
+    "options": {
+      "A": "review evidence from the test and assess whether the practice fits the new setting",
+      "B": "hide poor performance data",
+      "C": "use inconsistent definitions between facilities",
+      "D": "skip staff involvement in workflow mapping"
+    },
+    "correctAnswer": "A",
+    "topic": "Spread Of Effective Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q99",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 99,
+    "questionText": "Why is spread of effective practice important in this role?",
+    "options": {
+      "A": "blame one staff member before checking the system",
+      "B": "change every service process at once without testing",
+      "C": "choose an indicator without defining its numerator or denominator",
+      "D": "it helps useful learning benefit more facilities"
+    },
+    "correctAnswer": "D",
+    "topic": "Spread Of Effective Practice",
+    "source": "500_bank"
+  },
+  {
+    "id": "health_qi_optimizer_q100",
+    "roleId": "health_qi_optimizer",
+    "questionNumber": 100,
+    "questionText": "Which statement about spread of effective practice is correct?",
+    "options": {
+      "A": "assign actions without owners or deadlines",
+      "B": "hold meetings without documenting actions",
+      "C": "do not copy a change without considering local context and resources",
+      "D": "assume a cause is proven because it appears on a diagram"
+    },
+    "correctAnswer": "C",
+    "topic": "Spread Of Effective Practice",
+    "source": "500_bank"
+  }
+]
