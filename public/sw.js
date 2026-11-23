@@ -30,14 +30,18 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
+  const url = new URL(event.request.url);
+
+  // Only cache same-origin http/https requests
+  if (url.origin !== self.location.origin) return;
 
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
       if (cachedResponse) {
-        // Fetch in background to update cache
+        // Stale-while-revalidate
         fetch(event.request)
           .then((networkResponse) => {
-            if (networkResponse && networkResponse.status === 200) {
+            if (networkResponse && networkResponse.status === 200 && networkResponse.type === 'basic') {
               caches.open(CACHE_NAME).then((cache) => {
                 cache.put(event.request, networkResponse.clone());
               });
@@ -49,7 +53,7 @@ self.addEventListener('fetch', (event) => {
 
       return fetch(event.request)
         .then((networkResponse) => {
-          if (!networkResponse || networkResponse.status !== 200) {
+          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
           }
           const responseToCache = networkResponse.clone();
