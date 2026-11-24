@@ -58,4 +58,8 @@ declare module 'lucide-react' {
   export const Zap: LucideIcon;
   export const LayoutGrid: LucideIcon;
   export const ChevronRight: LucideIcon;
+  export const Search: LucideIcon;
+  export const Printer: LucideIcon;
+  export const FileText: LucideIcon;
+  export const MessageSquare: LucideIcon;
 }
