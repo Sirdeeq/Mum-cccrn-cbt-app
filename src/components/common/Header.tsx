@@ -89,6 +89,15 @@ export const Header: React.FC = () => {
             {candidate && !isExamPage && (
               <div className="flex items-center gap-2">
                 <Link
+                  to="/resources"
+                  className="flex items-center gap-1.5 bg-secondary-600/90 hover:bg-secondary-500 px-3 py-2 rounded-lg text-sm font-semibold text-white transition-colors border border-secondary-400/40 shadow-sm"
+                  title="CCCRN BRIDGE-N Study Resources & Role Guides"
+                >
+                  <BookOpen className="w-4 h-4 text-white" />
+                  <span className="hidden sm:inline">Study Hub</span>
+                </Link>
+
+                <Link
                   to="/dashboard"
                   className="flex items-center gap-2 bg-primary-800 hover:bg-primary-700 px-3 py-2 rounded-lg text-sm font-medium text-white transition-colors border border-primary-700"
                 >
@@ -105,6 +114,15 @@ export const Header: React.FC = () => {
                   <Settings className="w-5 h-5" />
                 </Link>
               </div>
+            )}
+            {!candidate && !isExamPage && (
+              <Link
+                to="/resources"
+                className="flex items-center gap-1.5 bg-secondary-600/90 hover:bg-secondary-500 px-3 py-2 rounded-lg text-xs sm:text-sm font-semibold text-white transition-colors border border-secondary-400/40"
+              >
+                <BookOpen className="w-4 h-4 text-white" />
+                <span>Study Hub</span>
+              </Link>
             )}
           </div>
         </div>

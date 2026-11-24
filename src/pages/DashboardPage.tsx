@@ -67,6 +67,11 @@ export const DashboardPage: React.FC = () => {
         </div>
 
         <div className="flex flex-wrap items-center gap-3 w-full md:w-auto">
+          <Link to={`/resources?tab=${selectedRole.id}`}>
+            <Button variant="outline" size="sm" className="bg-white/10 text-white border-white/20 hover:bg-white/20" icon={<BookOpen className="w-4 h-4 text-secondary-300" />}>
+              Role Study Notes
+            </Button>
+          </Link>
           <Link to="/roles">
             <Button variant="outline" size="sm" className="bg-white/10 text-white border-white/20 hover:bg-white/20">
               Change Position
@@ -188,10 +193,21 @@ export const DashboardPage: React.FC = () => {
             </div>
           </Card>
 
-          {/* Quick Links Card */}
+          {/* Quick Resources Card */}
           <Card className="p-6">
             <h3 className="font-bold text-slate-900 text-base mb-4">Quick Resources</h3>
             <div className="space-y-2">
+              <Link
+                to={`/resources?tab=${selectedRole.id}`}
+                className="flex items-center justify-between p-3 rounded-xl hover:bg-emerald-50/70 transition-colors border border-emerald-200 bg-emerald-50/30 text-emerald-950 font-semibold text-sm"
+              >
+                <span className="flex items-center gap-2">
+                  <BookOpen className="w-4 h-4 text-emerald-600" />
+                  <span>Role Guide & CCCRN Notes</span>
+                </span>
+                <ArrowRight className="w-4 h-4 text-emerald-600" />
+              </Link>
+
               <Link
                 to="/bookmarks"
                 className="flex items-center justify-between p-3 rounded-xl hover:bg-slate-50 transition-colors border border-slate-100 text-slate-700 font-semibold text-sm"

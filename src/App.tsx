@@ -17,6 +17,7 @@ import { WrongAnswersPage } from './pages/WrongAnswersPage';
 import { BookmarksPage } from './pages/BookmarksPage';
 import { HistoryPage } from './pages/HistoryPage';
 import { SettingsPage } from './pages/SettingsPage';
+import { ResourcesPage } from './pages/ResourcesPage';
 
 export const App: React.FC = () => {
   useEffect(() => {
@@ -46,6 +47,7 @@ export const App: React.FC = () => {
                   <Route path="/bookmarks" element={<BookmarksPage />} />
                   <Route path="/history" element={<HistoryPage />} />
                   <Route path="/settings" element={<SettingsPage />} />
+                  <Route path="/resources" element={<ResourcesPage />} />
                   <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>
               </main>

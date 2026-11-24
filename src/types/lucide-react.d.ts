@@ -57,4 +57,5 @@ declare module 'lucide-react' {
   export const Layers: LucideIcon;
   export const Zap: LucideIcon;
   export const LayoutGrid: LucideIcon;
+  export const ChevronRight: LucideIcon;
 }

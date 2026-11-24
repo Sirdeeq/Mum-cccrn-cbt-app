@@ -133,11 +133,17 @@ export const RoleSelectionPage: React.FC = () => {
                   <BookOpen className="w-4 h-4 text-slate-400" />
                   {role.questionCount} Questions ({role.topicsCount} Topics)
                 </span>
-                {role.supplementaryCount ? (
-                  <span className="text-secondary-700 font-bold bg-secondary-50 px-2 py-0.5 rounded">
-                    +{role.supplementaryCount} Supp.
-                  </span>
-                ) : null}
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    navigate(`/resources?tab=${role.id}`);
+                  }}
+                  className="text-secondary-700 hover:text-secondary-900 hover:underline flex items-center gap-1 font-bold"
+                  title="Read study guide for this role"
+                >
+                  Study Guide &rarr;
+                </button>
               </div>
             </Card>
           );
